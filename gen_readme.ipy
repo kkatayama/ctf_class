@@ -1,5 +1,6 @@
 # coding: utf-8
-# %load gen_readme.ipy
+#!/usr/bin/env python2.7
+
 import json
 
 '''
