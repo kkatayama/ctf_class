@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 import json
 
 cmd = "curl -sL 'https://udctf.com/api/v1/challenges' -H 'cookie: part3=_sw1p1ng_but; PHPSESSID=5ec73a450c763a79da4410b323ad1624; session=ff0ef5c2-3223-4121-92a0-a004128fb24d' -H 'accept-encoding: gzip, deflate, br' -H 'accept-language: en,en-US;q=0.9' -H 'user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36 OPR/62.0.3331.101' -H 'accept: */*' -H 'referer: https://udctf.com/challenges' -H 'authority: udctf.com' -H 'x-requested-with: XMLHttpRequest' --compressed"
-raw = get_ipython().getoutput(u'$cmd')
+raw = !$cmd
 challenges = json.loads(raw.s)
 for challenge in challenges['data']:
     category = challenge['category'].strip('?').lower().replace(' ', '_')
@@ -12,7 +12,7 @@ for challenge in challenges['data']:
         name = name.lstrip('_')
     cmd = "mkdir -p " + category + "/" + name 
     print cmd
-    get_ipython().system(u'$cmd    ')
+    !$cmd
     
     
         
