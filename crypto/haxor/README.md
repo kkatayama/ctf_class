@@ -16,6 +16,6 @@ Here's a brand new cipher. I bet you can't break it. When you're smart enough, y
 
 
 ## The Flag 
-```bash
+```ObjectScript
 UDCTF{1337h@xY0}
 ```

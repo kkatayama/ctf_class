@@ -16,6 +16,6 @@ I encrypted the flag with XOR!
 
 
 ## The Flag 
-```bash
+```ObjectScript
 UDCTF{uh_0h_1_d1dnt_m4k3_my_k3y_l0ng_en0ugh}
 ```

@@ -14,6 +14,6 @@ My friend just sent me an encrypted message along with the values <i>d</i> and <
 
 
 ## The Flag 
-```bash
+```ObjectScript
 UDCTF{y0u_kn0w_RSA!!!}
 ```

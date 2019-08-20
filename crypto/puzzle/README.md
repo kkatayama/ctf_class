@@ -16,6 +16,6 @@ We also encrypted a bunch of other flags using the same key.
 
 
 ## The Flag 
-```bash
+```ObjectScript
 UDCTF{buzzing_purifier_anathema_pachyderms_fuggier_nostalgist_yak_where_they_go}
 ```

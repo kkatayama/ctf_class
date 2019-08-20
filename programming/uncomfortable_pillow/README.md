@@ -16,6 +16,6 @@ nc 52.15.140.126 6968
 
 
 ## The Flag 
-```bash
+```ObjectScript
 UDCTF{uR_@_$cr!pT_W!Zard_harRy}
 ```

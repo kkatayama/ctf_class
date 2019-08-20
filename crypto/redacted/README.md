@@ -16,6 +16,6 @@ Can you help me recover my IV? My 2-year-old drew all over it.
 
 
 ## The Flag 
-```bash
+```ObjectScript
 UDCTF{w0w_y0u_s0_sm4rt}
 ```

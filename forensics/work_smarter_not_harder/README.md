@@ -14,6 +14,6 @@ We captured some traffic of someone solving one of our other challenges.
 
 
 ## The Flag 
-```bash
+```ObjectScript
 UDCTF{1_r3us3d_th4t_0n3_pwn_ch4ll3ng3}
 ```

@@ -16,7 +16,7 @@ nc 3.220.181.160 6000
 
 
 ## The Flag 
-```bash
+```ObjectScript
 Input received: AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 
 UDCTF{th4t_w4s_4n_e3sy_buff3r_0v4rfl0w}

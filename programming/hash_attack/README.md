@@ -16,6 +16,6 @@ nc 3.220.181.160 6002
 
 
 ## The Flag 
-```bash
+```ObjectScript
 UDCTF{n1c3_brut3_f0rc1ng_sk1llz}
 ```

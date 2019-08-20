@@ -18,6 +18,6 @@
 
 
 ## The Flag 
-```bash
+```ObjectScript
 UDCTF{wh4t_d03s_1t_4ll_m34n_B4s1l?}
 ```

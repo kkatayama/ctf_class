@@ -14,6 +14,6 @@
 
 
 ## The Flag 
-```bash
+```ObjectScript
 Congratulations, you solved this challenge!  Here is your flag: UDCTF{X0r_1s_my_f4v0r1t3}
 ```

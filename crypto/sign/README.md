@@ -14,6 +14,6 @@ Looks pretty similar to <i>Intro to RSA</i>, huh?
 
 
 ## The Flag 
-```bash
+```ObjectScript
 UDCTF{1_c4n_3ncrypt_w1th_d_t00}
 ```

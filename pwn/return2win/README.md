@@ -14,6 +14,6 @@ Connect to the server at: nc 52.15.140.126 5007
 
 
 ## The Flag 
-```bash
+```ObjectScript
 UDCTF{here's_your_flag}
 ```

@@ -14,6 +14,6 @@ I <i>really</i> like base64.
 
 
 ## The Flag 
-```bash
+```ObjectScript
 UDCTF{3nc0d3_4nd_3nc0d3_4nd_3nc0d3_4nd_d3c0d3_4nd_d3c0d3_4nd_d3c0d3}
 ```

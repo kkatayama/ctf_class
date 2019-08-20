@@ -1,4 +1,5 @@
 # coding: utf-8
+# %load gen_readme.ipy
 import json
 
 '''
@@ -23,7 +24,7 @@ files = get_ipython().getoutput(u'$cmd')
 for line in files:
     if 'split32' not in line:
         path = line.replace('./', '').replace('flag.txt', '')
-        print path
+        # print path
         c_name = '_'.join(c.capitalize() for c in path.split('/')[7].split('_'))
         if 'Xorientation' in c_name:
             c_name = 'XORientation'
@@ -59,5 +60,5 @@ for line in files:
             f.write('\n## Tools \n\n\n')
             f.write('\n## Computing the Answer \n\n\n')
             f.write('\n## The Flag \n')
-            f.write('`'+ flag +'`')
+            f.write('```ObjectScript\n'+ flag +'\n```')
             

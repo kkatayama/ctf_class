@@ -16,6 +16,6 @@ You'll need the dictionary for level 3!
 
 
 ## The Flag 
-```bash
+```ObjectScript
 UDCTF{1_l!k3_h@$h_bR0wnZ_4_br3@kfA$t}
 ```

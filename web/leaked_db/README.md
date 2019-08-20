@@ -16,6 +16,6 @@ Don't forget to explore!
 
 
 ## The Flag 
-```bash
+```ObjectScript
 Successful login SUp3R_1337_aDmin_Power here is your flag: UDCTF{1337_h4x0rs_kn0_SQL!}
 ```

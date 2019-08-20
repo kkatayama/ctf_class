@@ -14,6 +14,6 @@ Oh no, I forgot my password! Good thing some hackers leaked them. Huh, the passw
 
 
 ## The Flag 
-```bash
+```ObjectScript
 UDCTF{youwillneverguessthis}
 ```

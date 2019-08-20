@@ -16,6 +16,6 @@ Server is running at: nc 52.15.140.126 5005
 
 
 ## The Flag 
-```bash
+```ObjectScript
 UDCTF{ROP_NOP_POP_OP}
 ```
