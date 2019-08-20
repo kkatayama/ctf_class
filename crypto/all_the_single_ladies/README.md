@@ -63,8 +63,9 @@ with open('flag.txt', 'w') as f:
 ```
 
 ### Results
-```ShellSession
+```J
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
+
 A took a byte out of Gottfreid's sandwich, while he wasn't looking. Thank
 God I encrypted this, he'll never know the atrocities I committed, including stealing his
 UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jimmy_Johns} and stealing calculus.
