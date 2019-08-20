@@ -73,7 +73,7 @@ while not found:
 ```
 
 ### Results
-```Mark
+```Mask
 ➜  base64_me git:(master) ✗ python hack_base64_me.py
 
 FLAG FOUND: UDCTF{3nc0d3_4nd_3nc0d3_4nd_3nc0d3_4nd_d3c0d3_4nd_d3c0d3_4nd_d3c0d3}
