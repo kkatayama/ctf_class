@@ -12,7 +12,7 @@ def flag(stuff):
     inner = re.search(r"\{.+\}", stuff).group()
     return  stuff.replace('UDCTF', cyn('UDCTF')).replace(inner.strip('{}'), red(inner.strip('{}'))).replace('{', grn('{')).replace('}', grn('}'))
 
-with open('output.txt') as f:
+with open('output.txt', 'rb') as f:
     ct = f.read()
 
 for c in range(0, 256):
