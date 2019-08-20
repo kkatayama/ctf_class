@@ -16,4 +16,6 @@ You'll need the dictionary for level 3!
 
 
 ## The Flag 
-`UDCTF{1_l!k3_h@$h_bR0wnZ_4_br3@kfA$t}`
+```bash
+[96mUDCTF[00m[92m{[00m[91m1_l!k3_h@$h_bR0wnZ_4_br3@kfA$t[00m[92m}[00m
+```

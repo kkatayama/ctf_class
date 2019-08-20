@@ -16,4 +16,6 @@ We also encrypted a bunch of other flags using the same key.
 
 
 ## The Flag 
-`UDCTF{buzzing_purifier_anathema_pachyderms_fuggier_nostalgist_yak_where_they_go}`
+```bash
+[96mUDCTF[00m[92m{[00m[91mbuzzing_purifier_anathema_pachyderms_fuggier_nostalgist_yak_where_they_go[00m[92m}[00m
+```

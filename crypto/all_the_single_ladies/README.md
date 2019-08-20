@@ -14,4 +14,6 @@
 
 
 ## The Flag 
-`UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jimmy_Johns} and stealing calculus.`
+```bash
+[96mUDCTF[00m[92m{[00m[91mi'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jimmy_Johns[00m[92m}[00m and stealing calculus.
+```

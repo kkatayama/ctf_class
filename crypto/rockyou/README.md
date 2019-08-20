@@ -14,4 +14,6 @@ Oh no, I forgot my password! Good thing some hackers leaked them. Huh, the passw
 
 
 ## The Flag 
-`UDCTF{youwillneverguessthis}`
+```bash
+[96mUDCTF[00m[92m{[00m[91myouwillneverguessthis[00m[92m}[00m
+```

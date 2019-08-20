@@ -16,4 +16,6 @@ Can you help me recover my IV? My 2-year-old drew all over it.
 
 
 ## The Flag 
-`UDCTF{w0w_y0u_s0_sm4rt}`
+```bash
+[96mUDCTF[00m[92m{[00m[91mw0w_y0u_s0_sm4rt[00m[92m}[00m
+```

@@ -14,4 +14,6 @@ Looks pretty similar to <i>Intro to RSA</i>, huh?
 
 
 ## The Flag 
-`UDCTF{1_c4n_3ncrypt_w1th_d_t00}`
+```bash
+[96mUDCTF[00m[92m{[00m[91m1_c4n_3ncrypt_w1th_d_t00[00m[92m}[00m
+```
