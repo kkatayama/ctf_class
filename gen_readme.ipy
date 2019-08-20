@@ -1,0 +1,63 @@
+# coding: utf-8
+import json
+
+'''
+challenges = {}
+for i in range(287):
+    try:
+        cmd = "curl -sL 'https://udctf.com/api/v1/challenges/"+str(i)+"' -H 'cookie: signature=6787fa0a475c3362b29ce81ab344a756be656bd1f39670c83aaf49192e12ba8b; PHPSESSID=dc99aaf2a332f74713bdb503cb08a270; part3=_sw1p1ng_but; session=f0522764-2d6f-43bc-8950-080995e7d119' -H 'accept-encoding: gzip, deflate, br' -H 'accept-language: en,en-US;q=0.9' -H 'user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36 OPR/62.0.3331.119' -H 'accept: */*' -H 'referer: https://udctf.com/challenges' -H 'authority: udctf.com' -H 'x-requested-with: XMLHttpRequest' --compressed"
+        raw = !$cmd
+        challenge = json.loads(raw.s)
+        chal_name = challenge['data']['name']
+        if ' - ' in chal_name:
+            chal_name = chal_name.split(' - ')[1]
+        chal_name = chal_name.replace(' ', '_')
+        chal_desc = challenge['data']['description']
+        challenges[chal_name] = chal_desc
+    except:
+        pass
+print challenges.keys()
+'''
+cmd = "find . -type f -iname 'flag.txt' -exec echo $PWD/{} \;"
+files = get_ipython().getoutput(u'$cmd')
+for line in files:
+    if 'split32' not in line:
+        path = line.replace('./', '').replace('flag.txt', '')
+        print path
+        c_name = '_'.join(c.capitalize() for c in path.split('/')[7].split('_'))
+        if 'Xorientation' in c_name:
+            c_name = 'XORientation'
+        if 'Haxor' in c_name:
+            c_name = 'haXOR'
+        if 'Rockyou' in c_name:
+            c_name = 'RockYou'
+        if 'Xor_Rox' in c_name:
+            c_name = 'XOR_ROX'
+        if 'Intro_To_Rsa' in c_name:
+            c_name = 'Intro_to_RSA'
+        if 'Leaked_Db' in c_name:
+            c_name = 'LEAKED_DB'
+        if 'Seaessareeph' in c_name:
+            c_name = 'SeaEssAreEph'
+        if 'Dora_The_Explorer' in c_name:
+            c_name = 'Dora_the_Explorer'
+        if 'Intro_To_Hash' in c_name:
+            c_name = 'Intro_to_Hash'
+        if 'Return2win' in c_name:
+            c_name = 'Return2Win'
+        if 'First_Rop' in c_name:
+            c_name = 'First_ROP'
+
+        #print c_name
+        #print challenges[c_name]
+        with open(path+'flag.txt') as f:
+            flag=f.read().strip().replace('\x1b[96m', '').replace('\x1b[00m', '').replace('\x1b[92m', '').replace('\x1b[91m', '')
+        with open(path+'README.md', 'w') as f:
+            f.write('# ' + c_name + '\n')
+            f.write(challenges[c_name])
+            f.write('\n\n## Initial Analysis \n\n\n')
+            f.write('\n## Tools \n\n\n')
+            f.write('\n## Computing the Answer \n\n\n')
+            f.write('\n## The Flag \n')
+            f.write('`'+ flag +'`')
+            
