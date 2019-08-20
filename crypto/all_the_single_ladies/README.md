@@ -1,7 +1,7 @@
 # All_The_Single_Ladies
 2<sup>8</sup> is a pretty big search space, right?
 
-FILE: `output.txt`
+FILE: [output.txt](https://raw.githubusercontent.com/kkatayama/ctf_class/master/crypto/all_the_single_ladies/output.txt)
 
 ## Initial Analysis 
 For this challenge, we were given an encrypted binary file, `output.txt`.
