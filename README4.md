@@ -1,6 +1,5 @@
 
 ## HAProxy
-```HAProxy
 ### Results
 ```HAProxy
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -11,7 +10,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Mercury
-```Mercury
 ### Results
 ```Mercury
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -22,7 +20,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## PureBasic
-```PureBasic
 ### Results
 ```PureBasic
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -33,7 +30,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Objective-C++
-```Objective-C++
 ### Results
 ```Objective-C++
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -44,7 +40,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## DTrace
-```DTrace
 ### Results
 ```DTrace
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -55,7 +50,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Self
-```Self
 ### Results
 ```Self
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -66,7 +60,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## V
-```V
 ### Results
 ```V
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -77,7 +70,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Lean
-```Lean
 ### Results
 ```Lean
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -88,7 +80,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## NewLisp
-```NewLisp
 ### Results
 ```NewLisp
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -99,7 +90,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## CoNLL-U
-```CoNLL-U
 ### Results
 ```CoNLL-U
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -110,7 +100,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Rebol
-```Rebol
 ### Results
 ```Rebol
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -121,7 +110,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## BibTeX
-```BibTeX
 ### Results
 ```BibTeX
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -132,7 +120,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## X PixMap
-```X PixMap
 ### Results
 ```X PixMap
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -143,7 +130,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Brightscript
-```Brightscript
 ### Results
 ```Brightscript
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -154,7 +140,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## HTML+Razor
-```HTML+Razor
 ### Results
 ```HTML+Razor
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -165,7 +150,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## RAML
-```RAML
 ### Results
 ```RAML
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -176,7 +160,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Logos
-```Logos
 ### Results
 ```Logos
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -187,7 +170,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## edn
-```edn
 ### Results
 ```edn
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -198,7 +180,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## JSON with Comments
-```JSON with Comments
 ### Results
 ```JSON with Comments
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -209,7 +190,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Blade
-```Blade
 ### Results
 ```Blade
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -220,7 +200,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Bison
-```Bison
 ### Results
 ```Bison
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -231,7 +210,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## OpenStep Property List
-```OpenStep Property List
 ### Results
 ```OpenStep Property List
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -242,7 +220,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Gentoo Ebuild
-```Gentoo Ebuild
 ### Results
 ```Gentoo Ebuild
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -253,7 +230,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Fortran
-```Fortran
 ### Results
 ```Fortran
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -264,7 +240,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## COBOL
-```COBOL
 ### Results
 ```COBOL
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -275,7 +250,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## EditorConfig
-```EditorConfig
 ### Results
 ```EditorConfig
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -286,7 +260,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Go
-```Go
 ### Results
 ```Go
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -297,7 +270,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Ring
-```Ring
 ### Results
 ```Ring
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -308,7 +280,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Csound Document
-```Csound Document
 ### Results
 ```Csound Document
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -319,7 +290,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## 1C Enterprise
-```1C Enterprise
 ### Results
 ```1C Enterprise
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -330,7 +300,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## HTTP
-```HTTP
 ### Results
 ```HTTP
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -341,7 +310,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Raw token data
-```Raw token data
 ### Results
 ```Raw token data
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -352,7 +320,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Makefile
-```Makefile
 ### Results
 ```Makefile
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -363,7 +330,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## BitBake
-```BitBake
 ### Results
 ```BitBake
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -374,7 +340,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## M4
-```M4
 ### Results
 ```M4
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -385,7 +350,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Stata
-```Stata
 ### Results
 ```Stata
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -396,7 +360,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## TSQL
-```TSQL
 ### Results
 ```TSQL
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -407,7 +370,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Red
-```Red
 ### Results
 ```Red
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -418,7 +380,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## XPages
-```XPages
 ### Results
 ```XPages
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -429,7 +390,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## AngelScript
-```AngelScript
 ### Results
 ```AngelScript
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -440,7 +400,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## LSL
-```LSL
 ### Results
 ```LSL
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -451,7 +410,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Pug
-```Pug
 ### Results
 ```Pug
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -462,7 +420,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## RenderScript
-```RenderScript
 ### Results
 ```RenderScript
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -473,7 +430,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## HTML
-```HTML
 ### Results
 ```HTML
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -484,7 +440,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Graphviz (DOT)
-```Graphviz (DOT)
 ### Results
 ```Graphviz (DOT)
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -495,7 +450,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Org
-```Org
 ### Results
 ```Org
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -506,7 +460,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## PostCSS
-```PostCSS
 ### Results
 ```PostCSS
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -517,7 +470,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## PLpgSQL
-```PLpgSQL
 ### Results
 ```PLpgSQL
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -528,7 +480,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Apollo Guidance Computer
-```Apollo Guidance Computer
 ### Results
 ```Apollo Guidance Computer
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -539,7 +490,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Modula-2
-```Modula-2
 ### Results
 ```Modula-2
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -550,7 +500,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Myghty
-```Myghty
 ### Results
 ```Myghty
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -561,7 +510,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Clarion
-```Clarion
 ### Results
 ```Clarion
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -572,7 +520,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## GraphQL
-```GraphQL
 ### Results
 ```GraphQL
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -583,7 +530,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## HTML+ERB
-```HTML+ERB
 ### Results
 ```HTML+ERB
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -594,7 +540,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## AutoIt
-```AutoIt
 ### Results
 ```AutoIt
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -605,7 +550,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## HCL
-```HCL
 ### Results
 ```HCL
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -616,7 +560,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## CMake
-```CMake
 ### Results
 ```CMake
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -627,7 +570,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Shen
-```Shen
 ### Results
 ```Shen
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -638,7 +580,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## wdl
-```wdl
 ### Results
 ```wdl
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -649,7 +590,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## HXML
-```HXML
 ### Results
 ```HXML
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -660,7 +600,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## INI
-```INI
 ### Results
 ```INI
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -671,7 +610,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## GLSL
-```GLSL
 ### Results
 ```GLSL
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -682,7 +620,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Easybuild
-```Easybuild
 ### Results
 ```Easybuild
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -693,7 +630,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## VHDL
-```VHDL
 ### Results
 ```VHDL
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -704,7 +640,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## ObjDump
-```ObjDump
 ### Results
 ```ObjDump
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -715,7 +650,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## SMT
-```SMT
 ### Results
 ```SMT
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -726,7 +660,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Altium Designer
-```Altium Designer
 ### Results
 ```Altium Designer
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -737,7 +670,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## JSON5
-```JSON5
 ### Results
 ```JSON5
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -748,7 +680,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## YASnippet
-```YASnippet
 ### Results
 ```YASnippet
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -759,7 +690,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Limbo
-```Limbo
 ### Results
 ```Limbo
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -770,7 +700,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## LFE
-```LFE
 ### Results
 ```LFE
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -781,7 +710,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Oxygene
-```Oxygene
 ### Results
 ```Oxygene
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -792,7 +720,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## BlitzBasic
-```BlitzBasic
 ### Results
 ```BlitzBasic
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -803,7 +730,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## JFlex
-```JFlex
 ### Results
 ```JFlex
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -814,7 +740,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## ObjectScript
-```ObjectScript
 ### Results
 ```ObjectScript
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -825,7 +750,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## WebIDL
-```WebIDL
 ### Results
 ```WebIDL
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -836,7 +760,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## LiveScript
-```LiveScript
 ### Results
 ```LiveScript
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -847,7 +770,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Stan
-```Stan
 ### Results
 ```Stan
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -858,7 +780,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## JSX
-```JSX
 ### Results
 ```JSX
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -869,7 +790,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Protocol Buffer
-```Protocol Buffer
 ### Results
 ```Protocol Buffer
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -880,7 +800,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Charity
-```Charity
 ### Results
 ```Charity
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -891,7 +810,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## LOLCODE
-```LOLCODE
 ### Results
 ```LOLCODE
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -902,7 +820,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## ooc
-```ooc
 ### Results
 ```ooc
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -913,7 +830,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Adobe Font Metrics
-```Adobe Font Metrics
 ### Results
 ```Adobe Font Metrics
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -924,7 +840,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Mask
-```Mask
 ### Results
 ```Mask
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -935,7 +850,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Cuda
-```Cuda
 ### Results
 ```Cuda
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -946,7 +860,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Vim script
-```Vim script
 ### Results
 ```Vim script
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -957,7 +870,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Roff Manpage
-```Roff Manpage
 ### Results
 ```Roff Manpage
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -968,7 +880,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Ren'Py
-```Ren'Py
 ### Results
 ```Ren'Py
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -979,7 +890,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Text
-```Text
 ### Results
 ```Text
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -990,7 +900,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Sage
-```Sage
 ### Results
 ```Sage
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -1001,7 +910,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## ChucK
-```ChucK
 ### Results
 ```ChucK
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -1012,7 +920,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## F#
-```F#
 ### Results
 ```F#
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -1023,7 +930,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## F*
-```F*
 ### Results
 ```F*
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -1034,7 +940,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Parrot Internal Representation
-```Parrot Internal Representation
 ### Results
 ```Parrot Internal Representation
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -1045,7 +950,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Smalltalk
-```Smalltalk
 ### Results
 ```Smalltalk
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -1056,7 +960,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Cloud Firestore Security Rules
-```Cloud Firestore Security Rules
 ### Results
 ```Cloud Firestore Security Rules
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -1067,7 +970,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Monkey
-```Monkey
 ### Results
 ```Monkey
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -1078,7 +980,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Emacs Lisp
-```Emacs Lisp
 ### Results
 ```Emacs Lisp
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -1089,7 +990,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## JavaScript
-```JavaScript
 ### Results
 ```JavaScript
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -1100,7 +1000,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## QMake
-```QMake
 ### Results
 ```QMake
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -1111,7 +1010,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## ABAP
-```ABAP
 ### Results
 ```ABAP
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -1122,7 +1020,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Parrot Assembly
-```Parrot Assembly
 ### Results
 ```Parrot Assembly
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -1133,7 +1030,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Redcode
-```Redcode
 ### Results
 ```Redcode
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -1144,7 +1040,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## PicoLisp
-```PicoLisp
 ### Results
 ```PicoLisp
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -1155,7 +1050,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Erlang
-```Erlang
 ### Results
 ```Erlang
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -1166,7 +1060,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## COLLADA
-```COLLADA
 ### Results
 ```COLLADA
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -1177,7 +1070,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Scheme
-```Scheme
 ### Results
 ```Scheme
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -1188,7 +1080,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Nearley
-```Nearley
 ### Results
 ```Nearley
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -1199,7 +1090,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## IGOR Pro
-```IGOR Pro
 ### Results
 ```IGOR Pro
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -1210,7 +1100,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Dylan
-```Dylan
 ### Results
 ```Dylan
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -1221,7 +1110,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Literate Agda
-```Literate Agda
 ### Results
 ```Literate Agda
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -1232,7 +1120,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Eagle
-```Eagle
 ### Results
 ```Eagle
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -1243,7 +1130,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Gradle
-```Gradle
 ### Results
 ```Gradle
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -1254,7 +1140,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## CLIPS
-```CLIPS
 ### Results
 ```CLIPS
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -1265,7 +1150,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## NetLinx+ERB
-```NetLinx+ERB
 ### Results
 ```NetLinx+ERB
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -1276,7 +1160,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Gentoo Eclass
-```Gentoo Eclass
 ### Results
 ```Gentoo Eclass
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -1287,7 +1170,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Alloy
-```Alloy
 ### Results
 ```Alloy
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -1298,7 +1180,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## CWeb
-```CWeb
 ### Results
 ```CWeb
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -1309,7 +1190,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## HyPhy
-```HyPhy
 ### Results
 ```HyPhy
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -1320,7 +1200,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## q
-```q
 ### Results
 ```q
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -1331,7 +1210,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Haskell
-```Haskell
 ### Results
 ```Haskell
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -1342,7 +1220,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## NCL
-```NCL
 ### Results
 ```NCL
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -1353,7 +1230,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Rouge
-```Rouge
 ### Results
 ```Rouge
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -1364,7 +1240,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Haml
-```Haml
 ### Results
 ```Haml
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -1375,7 +1250,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Zig
-```Zig
 ### Results
 ```Zig
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -1386,7 +1260,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Ceylon
-```Ceylon
 ### Results
 ```Ceylon
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -1397,7 +1270,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## GN
-```GN
 ### Results
 ```GN
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -1408,7 +1280,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## GAP
-```GAP
 ### Results
 ```GAP
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -1419,7 +1290,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Maven POM
-```Maven POM
 ### Results
 ```Maven POM
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -1430,7 +1300,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Shell
-```Shell
 ### Results
 ```Shell
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -1441,7 +1310,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Jison
-```Jison
 ### Results
 ```Jison
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -1452,7 +1320,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Nginx
-```Nginx
 ### Results
 ```Nginx
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -1463,7 +1330,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## DIGITAL Command Language
-```DIGITAL Command Language
 ### Results
 ```DIGITAL Command Language
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -1474,7 +1340,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## SAS
-```SAS
 ### Results
 ```SAS
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -1485,7 +1350,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Grace
-```Grace
 ### Results
 ```Grace
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -1496,7 +1360,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## OpenCL
-```OpenCL
 ### Results
 ```OpenCL
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -1507,7 +1370,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Kotlin
-```Kotlin
 ### Results
 ```Kotlin
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -1518,7 +1380,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Groovy Server Pages
-```Groovy Server Pages
 ### Results
 ```Groovy Server Pages
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -1529,7 +1390,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## ZIL
-```ZIL
 ### Results
 ```ZIL
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -1540,7 +1400,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Ragel
-```Ragel
 ### Results
 ```Ragel
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -1551,7 +1410,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Gosu
-```Gosu
 ### Results
 ```Gosu
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -1562,7 +1420,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Less
-```Less
 ### Results
 ```Less
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -1573,7 +1430,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## IDL
-```IDL
 ### Results
 ```IDL
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -1584,7 +1440,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## HTML+ECR
-```HTML+ECR
 ### Results
 ```HTML+ECR
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -1595,7 +1450,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Linker Script
-```Linker Script
 ### Results
 ```Linker Script
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -1606,7 +1460,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## APL
-```APL
 ### Results
 ```APL
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -1617,7 +1470,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Chapel
-```Chapel
 ### Results
 ```Chapel
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -1628,7 +1480,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## NumPy
-```NumPy
 ### Results
 ```NumPy
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -1639,7 +1490,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## WebAssembly
-```WebAssembly
 ### Results
 ```WebAssembly
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -1650,7 +1500,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## ApacheConf
-```ApacheConf
 ### Results
 ```ApacheConf
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -1661,7 +1510,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Perl
-```Perl
 ### Results
 ```Perl
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -1672,7 +1520,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Jsonnet
-```Jsonnet
 ### Results
 ```Jsonnet
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -1683,7 +1530,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## MediaWiki
-```MediaWiki
 ### Results
 ```MediaWiki
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -1694,7 +1540,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## GDScript
-```GDScript
 ### Results
 ```GDScript
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -1705,7 +1550,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Gerber Image
-```Gerber Image
 ### Results
 ```Gerber Image
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -1716,7 +1560,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Cap'n Proto
-```Cap'n Proto
 ### Results
 ```Cap'n Proto
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -1727,7 +1570,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Factor
-```Factor
 ### Results
 ```Factor
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -1738,7 +1580,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Windows Registry Entries
-```Windows Registry Entries
 ### Results
 ```Windows Registry Entries
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -1749,7 +1590,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Darcs Patch
-```Darcs Patch
 ### Results
 ```Darcs Patch
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -1760,7 +1600,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## OpenRC runscript
-```OpenRC runscript
 ### Results
 ```OpenRC runscript
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -1771,7 +1610,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Jasmin
-```Jasmin
 ### Results
 ```Jasmin
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -1782,7 +1620,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## eC
-```eC
 ### Results
 ```eC
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -1793,7 +1630,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## LilyPond
-```LilyPond
 ### Results
 ```LilyPond
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -1804,7 +1640,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Cool
-```Cool
 ### Results
 ```Cool
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -1815,7 +1650,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Zimpl
-```Zimpl
 ### Results
 ```Zimpl
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -1826,7 +1660,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## CSON
-```CSON
 ### Results
 ```CSON
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -1837,7 +1670,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Metal
-```Metal
 ### Results
 ```Metal
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -1848,7 +1680,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## GCC Machine Description
-```GCC Machine Description
 ### Results
 ```GCC Machine Description
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -1859,7 +1690,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Inform 7
-```Inform 7
 ### Results
 ```Inform 7
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -1870,7 +1700,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Modelica
-```Modelica
 ### Results
 ```Modelica
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -1881,7 +1710,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## CSV
-```CSV
 ### Results
 ```CSV
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -1892,7 +1720,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## EQ
-```EQ
 ### Results
 ```EQ
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -1903,7 +1730,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Wavefront Material
-```Wavefront Material
 ### Results
 ```Wavefront Material
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -1914,7 +1740,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## CSS
-```CSS
 ### Results
 ```CSS
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -1925,7 +1750,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Uno
-```Uno
 ### Results
 ```Uno
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -1936,7 +1760,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## C-ObjDump
-```C-ObjDump
 ### Results
 ```C-ObjDump
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -1947,7 +1770,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## ABNF
-```ABNF
 ### Results
 ```ABNF
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -1958,7 +1780,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## ColdFusion
-```ColdFusion
 ### Results
 ```ColdFusion
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -1969,7 +1790,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Cirru
-```Cirru
 ### Results
 ```Cirru
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -1980,7 +1800,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Harbour
-```Harbour
 ### Results
 ```Harbour
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -1991,7 +1810,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Yacc
-```Yacc
 ### Results
 ```Yacc
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -2002,7 +1820,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Xojo
-```Xojo
 ### Results
 ```Xojo
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -2013,7 +1830,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## SubRip Text
-```SubRip Text
 ### Results
 ```SubRip Text
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -2024,7 +1840,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## BlitzMax
-```BlitzMax
 ### Results
 ```BlitzMax
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -2035,7 +1850,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## PigLatin
-```PigLatin
 ### Results
 ```PigLatin
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -2046,7 +1860,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Type Language
-```Type Language
 ### Results
 ```Type Language
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -2057,7 +1870,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Lasso
-```Lasso
 ### Results
 ```Lasso
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -2068,7 +1880,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Motorola 68K Assembly
-```Motorola 68K Assembly
 ### Results
 ```Motorola 68K Assembly
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -2079,7 +1890,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Gettext Catalog
-```Gettext Catalog
 ### Results
 ```Gettext Catalog
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -2090,7 +1900,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## X10
-```X10
 ### Results
 ```X10
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -2101,7 +1910,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## MUF
-```MUF
 ### Results
 ```MUF
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -2112,7 +1920,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## ATS
-```ATS
 ### Results
 ```ATS
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -2123,7 +1930,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## RHTML
-```RHTML
 ### Results
 ```RHTML
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -2134,7 +1940,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## FIGlet Font
-```FIGlet Font
 ### Results
 ```FIGlet Font
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -2145,7 +1950,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## ASP
-```ASP
 ### Results
 ```ASP
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -2156,7 +1960,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Vala
-```Vala
 ### Results
 ```Vala
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -2167,7 +1970,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## ECL
-```ECL
 ### Results
 ```ECL
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -2178,7 +1980,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Bluespec
-```Bluespec
 ### Results
 ```Bluespec
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -2189,7 +1990,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## NetLinx
-```NetLinx
 ### Results
 ```NetLinx
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -2200,7 +2000,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Perl 6
-```Perl 6
 ### Results
 ```Perl 6
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -2211,7 +2010,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## WebVTT
-```WebVTT
 ### Results
 ```WebVTT
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -2222,7 +2020,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Pike
-```Pike
 ### Results
 ```Pike
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -2233,7 +2030,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## XC
-```XC
 ### Results
 ```XC
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -2244,7 +2040,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## AsciiDoc
-```AsciiDoc
 ### Results
 ```AsciiDoc
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -2255,7 +2050,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## TLA
-```TLA
 ### Results
 ```TLA
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -2266,7 +2060,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## R
-```R
 ### Results
 ```R
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -2277,7 +2070,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## X Font Directory Index
-```X Font Directory Index
 ### Results
 ```X Font Directory Index
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -2288,7 +2080,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## XS
-```XS
 ### Results
 ```XS
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -2299,7 +2090,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Unified Parallel C
-```Unified Parallel C
 ### Results
 ```Unified Parallel C
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -2310,7 +2100,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Markdown
-```Markdown
 ### Results
 ```Markdown
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -2321,7 +2110,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## SQLPL
-```SQLPL
 ### Results
 ```SQLPL
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -2332,7 +2120,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Gherkin
-```Gherkin
 ### Results
 ```Gherkin
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -2343,7 +2130,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## API Blueprint
-```API Blueprint
 ### Results
 ```API Blueprint
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -2354,7 +2140,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Zephir
-```Zephir
 ### Results
 ```Zephir
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -2365,7 +2150,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Click
-```Click
 ### Results
 ```Click
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -2376,7 +2160,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## DM
-```DM
 ### Results
 ```DM
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -2387,7 +2170,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## TSX
-```TSX
 ### Results
 ```TSX
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -2398,7 +2180,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## JSONLD
-```JSONLD
 ### Results
 ```JSONLD
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -2409,7 +2190,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Spline Font Database
-```Spline Font Database
 ### Results
 ```Spline Font Database
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -2420,7 +2200,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## mupad
-```mupad
 ### Results
 ```mupad
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -2431,7 +2210,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Pan
-```Pan
 ### Results
 ```Pan
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -2442,7 +2220,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## LookML
-```LookML
 ### Results
 ```LookML
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -2453,7 +2230,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Linux Kernel Module
-```Linux Kernel Module
 ### Results
 ```Linux Kernel Module
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -2464,7 +2240,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Nim
-```Nim
 ### Results
 ```Nim
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -2475,7 +2250,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Kit
-```Kit
 ### Results
 ```Kit
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -2486,7 +2260,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Nix
-```Nix
 ### Results
 ```Nix
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -2497,7 +2270,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## SugarSS
-```SugarSS
 ### Results
 ```SugarSS
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -2508,7 +2280,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## TOML
-```TOML
 ### Results
 ```TOML
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -2519,7 +2290,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Nit
-```Nit
 ### Results
 ```Nit
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -2530,7 +2300,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## POV-Ray SDL
-```POV-Ray SDL
 ### Results
 ```POV-Ray SDL
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -2541,7 +2310,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## LLVM
-```LLVM
 ### Results
 ```LLVM
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -2552,7 +2320,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Parrot
-```Parrot
 ### Results
 ```Parrot
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -2563,7 +2330,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Grammatical Framework
-```Grammatical Framework
 ### Results
 ```Grammatical Framework
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -2574,7 +2340,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## M
-```M
 ### Results
 ```M
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -2585,7 +2350,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## C++
-```C++
 ### Results
 ```C++
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -2596,7 +2360,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Common Workflow Language
-```Common Workflow Language
 ### Results
 ```Common Workflow Language
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -2607,7 +2370,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## ShaderLab
-```ShaderLab
 ### Results
 ```ShaderLab
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -2618,7 +2380,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## EJS
-```EJS
 ### Results
 ```EJS
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -2629,7 +2390,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## MoonScript
-```MoonScript
 ### Results
 ```MoonScript
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -2640,7 +2400,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Pawn
-```Pawn
 ### Results
 ```Pawn
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -2651,7 +2410,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Slim
-```Slim
 ### Results
 ```Slim
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -2662,7 +2420,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Filterscript
-```Filterscript
 ### Results
 ```Filterscript
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -2673,7 +2430,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Omgrofl
-```Omgrofl
 ### Results
 ```Omgrofl
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -2684,7 +2440,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Racket
-```Racket
 ### Results
 ```Racket
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -2695,7 +2450,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Csound Score
-```Csound Score
 ### Results
 ```Csound Score
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -2706,7 +2460,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Literate CoffeeScript
-```Literate CoffeeScript
 ### Results
 ```Literate CoffeeScript
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -2717,7 +2470,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## ASN.1
-```ASN.1
 ### Results
 ```ASN.1
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -2728,7 +2480,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Marko
-```Marko
 ### Results
 ```Marko
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -2739,7 +2490,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## IRC log
-```IRC log
 ### Results
 ```IRC log
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -2750,7 +2500,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Java Properties
-```Java Properties
 ### Results
 ```Java Properties
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -2761,7 +2510,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## HolyC
-```HolyC
 ### Results
 ```HolyC
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -2772,7 +2520,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Web Ontology Language
-```Web Ontology Language
 ### Results
 ```Web Ontology Language
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -2783,7 +2530,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## HiveQL
-```HiveQL
 ### Results
 ```HiveQL
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -2794,7 +2540,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Eiffel
-```Eiffel
 ### Results
 ```Eiffel
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -2805,7 +2550,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Befunge
-```Befunge
 ### Results
 ```Befunge
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -2816,7 +2560,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Opa
-```Opa
 ### Results
 ```Opa
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -2827,7 +2570,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Elixir
-```Elixir
 ### Results
 ```Elixir
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -2838,7 +2580,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## UrWeb
-```UrWeb
 ### Results
 ```UrWeb
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -2849,7 +2590,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## MQL4
-```MQL4
 ### Results
 ```MQL4
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -2860,7 +2600,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## MQL5
-```MQL5
 ### Results
 ```MQL5
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -2871,7 +2610,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Agda
-```Agda
 ### Results
 ```Agda
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -2882,7 +2620,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Ant Build System
-```Ant Build System
 ### Results
 ```Ant Build System
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -2893,7 +2630,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Thrift
-```Thrift
 ### Results
 ```Thrift
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -2904,7 +2640,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## SRecode Template
-```SRecode Template
 ### Results
 ```SRecode Template
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -2915,7 +2650,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## HTML+Django
-```HTML+Django
 ### Results
 ```HTML+Django
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -2926,7 +2660,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Sass
-```Sass
 ### Results
 ```Sass
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -2937,7 +2670,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## PowerBuilder
-```PowerBuilder
 ### Results
 ```PowerBuilder
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -2948,7 +2680,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Inno Setup
-```Inno Setup
 ### Results
 ```Inno Setup
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -2959,7 +2690,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Crystal
-```Crystal
 ### Results
 ```Crystal
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -2970,7 +2700,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Objective-C
-```Objective-C
 ### Results
 ```Objective-C
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -2981,7 +2710,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Mirah
-```Mirah
 ### Results
 ```Mirah
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -2992,7 +2720,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Objective-J
-```Objective-J
 ### Results
 ```Objective-J
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -3003,7 +2730,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Glyph Bitmap Distribution Format
-```Glyph Bitmap Distribution Format
 ### Results
 ```Glyph Bitmap Distribution Format
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -3014,7 +2740,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## FreeMarker
-```FreeMarker
 ### Results
 ```FreeMarker
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -3025,7 +2750,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Swift
-```Swift
 ### Results
 ```Swift
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -3036,7 +2760,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## HTML+PHP
-```HTML+PHP
 ### Results
 ```HTML+PHP
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -3047,7 +2770,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Jupyter Notebook
-```Jupyter Notebook
 ### Results
 ```Jupyter Notebook
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -3058,7 +2780,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Smarty
-```Smarty
 ### Results
 ```Smarty
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -3069,7 +2790,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Component Pascal
-```Component Pascal
 ### Results
 ```Component Pascal
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -3080,7 +2800,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Visual Basic
-```Visual Basic
 ### Results
 ```Visual Basic
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -3091,7 +2810,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## PHP
-```PHP
 ### Results
 ```PHP
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -3102,7 +2820,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Texinfo
-```Texinfo
 ### Results
 ```Texinfo
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -3113,7 +2830,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## ZAP
-```ZAP
 ### Results
 ```ZAP
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -3124,7 +2840,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Modula-3
-```Modula-3
 ### Results
 ```Modula-3
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -3135,7 +2850,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## MAXScript
-```MAXScript
 ### Results
 ```MAXScript
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -3146,7 +2860,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## EML
-```EML
 ### Results
 ```EML
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -3157,7 +2870,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Formatted
-```Formatted
 ### Results
 ```Formatted
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -3168,7 +2880,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Textile
-```Textile
 ### Results
 ```Textile
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -3179,7 +2890,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## sed
-```sed
 ### Results
 ```sed
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -3190,7 +2900,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Verilog
-```Verilog
 ### Results
 ```Verilog
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -3201,7 +2910,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Ignore List
-```Ignore List
 ### Results
 ```Ignore List
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -3212,7 +2920,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## YARA
-```YARA
 ### Results
 ```YARA
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -3223,7 +2930,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## D-ObjDump
-```D-ObjDump
 ### Results
 ```D-ObjDump
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -3234,7 +2940,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Cabal Config
-```Cabal Config
 ### Results
 ```Cabal Config
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -3245,7 +2950,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## mcfunction
-```mcfunction
 ### Results
 ```mcfunction
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -3256,7 +2960,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Volt
-```Volt
 ### Results
 ```Volt
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -3267,7 +2970,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Rich Text Format
-```Rich Text Format
 ### Results
 ```Rich Text Format
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -3278,7 +2980,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Pascal
-```Pascal
 ### Results
 ```Pascal
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -3289,7 +2990,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## MiniD
-```MiniD
 ### Results
 ```MiniD
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -3300,7 +3000,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Terra
-```Terra
 ### Results
 ```Terra
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -3311,7 +3010,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## CoffeeScript
-```CoffeeScript
 ### Results
 ```CoffeeScript
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -3322,7 +3020,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Awk
-```Awk
 ### Results
 ```Awk
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -3333,7 +3030,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## G-code
-```G-code
 ### Results
 ```G-code
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -3344,7 +3040,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## UnrealScript
-```UnrealScript
 ### Results
 ```UnrealScript
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -3355,7 +3050,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Idris
-```Idris
 ### Results
 ```Idris
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -3366,7 +3060,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## C
-```C
 ### Results
 ```C
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -3377,7 +3070,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Zeek
-```Zeek
 ### Results
 ```Zeek
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -3388,7 +3080,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## HLSL
-```HLSL
 ### Results
 ```HLSL
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -3399,7 +3090,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## P4
-```P4
 ### Results
 ```P4
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -3410,7 +3100,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Isabelle
-```Isabelle
 ### Results
 ```Isabelle
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -3421,7 +3110,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## HTML+EEX
-```HTML+EEX
 ### Results
 ```HTML+EEX
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -3432,7 +3120,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Scaml
-```Scaml
 ### Results
 ```Scaml
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -3443,7 +3130,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## ShellSession
-```ShellSession
 ### Results
 ```ShellSession
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -3454,7 +3140,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Pod 6
-```Pod 6
 ### Results
 ```Pod 6
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -3465,7 +3150,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Literate Haskell
-```Literate Haskell
 ### Results
 ```Literate Haskell
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -3476,7 +3160,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## REALbasic
-```REALbasic
 ### Results
 ```REALbasic
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -3487,7 +3170,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Genie
-```Genie
 ### Results
 ```Genie
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -3498,7 +3180,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Moocode
-```Moocode
 ### Results
 ```Moocode
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -3509,7 +3190,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## C2hs Haskell
-```C2hs Haskell
 ### Results
 ```C2hs Haskell
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -3520,7 +3200,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## SourcePawn
-```SourcePawn
 ### Results
 ```SourcePawn
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -3531,7 +3210,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Clojure
-```Clojure
 ### Results
 ```Clojure
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -3542,7 +3220,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## ANTLR
-```ANTLR
 ### Results
 ```ANTLR
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -3553,7 +3230,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## M4Sugar
-```M4Sugar
 ### Results
 ```M4Sugar
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -3564,7 +3240,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## YAML
-```YAML
 ### Results
 ```YAML
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -3575,7 +3250,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Tcl
-```Tcl
 ### Results
 ```Tcl
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -3586,7 +3260,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Nextflow
-```Nextflow
 ### Results
 ```Nextflow
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -3597,7 +3270,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Xtend
-```Xtend
 ### Results
 ```Xtend
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -3608,7 +3280,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Python traceback
-```Python traceback
 ### Results
 ```Python traceback
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -3619,7 +3290,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Ecere Projects
-```Ecere Projects
 ### Results
 ```Ecere Projects
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -3630,7 +3300,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## JSONiq
-```JSONiq
 ### Results
 ```JSONiq
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -3641,7 +3310,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Cython
-```Cython
 ### Results
 ```Cython
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -3652,7 +3320,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## MLIR
-```MLIR
 ### Results
 ```MLIR
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -3663,7 +3330,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Regular Expression
-```Regular Expression
 ### Results
 ```Regular Expression
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -3674,7 +3340,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Unity3D Asset
-```Unity3D Asset
 ### Results
 ```Unity3D Asset
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -3685,7 +3350,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Alpine Abuild
-```Alpine Abuild
 ### Results
 ```Alpine Abuild
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -3696,7 +3360,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## REXX
-```REXX
 ### Results
 ```REXX
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -3707,7 +3370,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## SCSS
-```SCSS
 ### Results
 ```SCSS
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -3718,7 +3380,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Assembly
-```Assembly
 ### Results
 ```Assembly
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -3729,7 +3390,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## C#
-```C#
 ### Results
 ```C#
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -3740,7 +3400,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Turing
-```Turing
 ### Results
 ```Turing
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -3751,7 +3410,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Processing
-```Processing
 ### Results
 ```Processing
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -3762,7 +3420,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## NSIS
-```NSIS
 ### Results
 ```NSIS
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -3773,7 +3430,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## JSON
-```JSON
 ### Results
 ```JSON
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -3784,7 +3440,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Public Key
-```Public Key
 ### Results
 ```Public Key
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -3795,7 +3450,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## MATLAB
-```MATLAB
 ### Results
 ```MATLAB
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -3806,7 +3460,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## MTML
-```MTML
 ### Results
 ```MTML
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -3817,7 +3470,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## XML
-```XML
 ### Results
 ```XML
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -3828,7 +3480,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Mathematica
-```Mathematica
 ### Results
 ```Mathematica
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -3839,7 +3490,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Liquid
-```Liquid
 ### Results
 ```Liquid
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -3850,7 +3500,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## XSLT
-```XSLT
 ### Results
 ```XSLT
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -3861,7 +3510,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## RMarkdown
-```RMarkdown
 ### Results
 ```RMarkdown
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -3872,7 +3520,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## SmPL
-```SmPL
 ### Results
 ```SmPL
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -3883,7 +3530,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## EmberScript
-```EmberScript
 ### Results
 ```EmberScript
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -3894,7 +3540,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## LabVIEW
-```LabVIEW
 ### Results
 ```LabVIEW
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -3905,7 +3550,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Nemerle
-```Nemerle
 ### Results
 ```Nemerle
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -3916,7 +3560,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## KRL
-```KRL
 ### Results
 ```KRL
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -3927,7 +3570,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Scilab
-```Scilab
 ### Results
 ```Scilab
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -3938,7 +3580,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## AppleScript
-```AppleScript
 ### Results
 ```AppleScript
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -3949,7 +3590,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## OCaml
-```OCaml
 ### Results
 ```OCaml
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -3960,7 +3600,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Git Attributes
-```Git Attributes
 ### Results
 ```Git Attributes
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -3971,7 +3610,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## LoomScript
-```LoomScript
 ### Results
 ```LoomScript
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -3982,7 +3620,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Slice
-```Slice
 ### Results
 ```Slice
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -3993,7 +3630,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## PogoScript
-```PogoScript
 ### Results
 ```PogoScript
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -4004,7 +3640,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Wollok
-```Wollok
 ### Results
 ```Wollok
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -4015,7 +3650,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Rust
-```Rust
 ### Results
 ```Rust
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -4026,7 +3660,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Slash
-```Slash
 ### Results
 ```Slash
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -4037,7 +3670,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## RPM Spec
-```RPM Spec
 ### Results
 ```RPM Spec
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -4048,7 +3680,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Module Management System
-```Module Management System
 ### Results
 ```Module Management System
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -4059,7 +3690,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Squirrel
-```Squirrel
 ### Results
 ```Squirrel
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -4070,7 +3700,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Python
-```Python
 ### Results
 ```Python
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -4081,7 +3710,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Latte
-```Latte
 ### Results
 ```Latte
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -4092,7 +3720,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## YANG
-```YANG
 ### Results
 ```YANG
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -4103,7 +3730,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## EBNF
-```EBNF
 ### Results
 ```EBNF
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -4114,7 +3740,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## ZenScript
-```ZenScript
 ### Results
 ```ZenScript
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -4125,7 +3750,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Coq
-```Coq
 ### Results
 ```Coq
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -4136,7 +3760,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Vue
-```Vue
 ### Results
 ```Vue
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -4147,7 +3770,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Clean
-```Clean
 ### Results
 ```Clean
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -4158,7 +3780,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Groovy
-```Groovy
 ### Results
 ```Groovy
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -4169,7 +3790,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Jolie
-```Jolie
 ### Results
 ```Jolie
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -4180,7 +3800,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Isabelle ROOT
-```Isabelle ROOT
 ### Results
 ```Isabelle ROOT
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -4191,7 +3810,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## PureScript
-```PureScript
 ### Results
 ```PureScript
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -4202,7 +3820,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Julia
-```Julia
 ### Results
 ```Julia
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -4213,7 +3830,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Git Config
-```Git Config
 ### Results
 ```Git Config
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -4224,7 +3840,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## KiCad Schematic
-```KiCad Schematic
 ### Results
 ```KiCad Schematic
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -4235,7 +3850,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Io
-```Io
 ### Results
 ```Io
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -4246,7 +3860,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Max
-```Max
 ### Results
 ```Max
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -4257,7 +3870,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Meson
-```Meson
 ### Results
 ```Meson
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -4268,7 +3880,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Dogescript
-```Dogescript
 ### Results
 ```Dogescript
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -4279,7 +3890,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## nesC
-```nesC
 ### Results
 ```nesC
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -4290,7 +3900,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## TypeScript
-```TypeScript
 ### Results
 ```TypeScript
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -4301,7 +3910,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Frege
-```Frege
 ### Results
 ```Frege
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -4312,7 +3920,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## AspectJ
-```AspectJ
 ### Results
 ```AspectJ
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -4323,7 +3930,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## JavaScript+ERB
-```JavaScript+ERB
 ### Results
 ```JavaScript+ERB
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -4334,7 +3940,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Tcsh
-```Tcsh
 ### Results
 ```Tcsh
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -4345,7 +3950,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## xBase
-```xBase
 ### Results
 ```xBase
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -4356,7 +3960,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## RPC
-```RPC
 ### Results
 ```RPC
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -4367,7 +3970,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## desktop
-```desktop
 ### Results
 ```desktop
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -4378,7 +3980,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## SuperCollider
-```SuperCollider
 ### Results
 ```SuperCollider
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -4389,7 +3990,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Reason
-```Reason
 ### Results
 ```Reason
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -4400,7 +4000,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## XCompose
-```XCompose
 ### Results
 ```XCompose
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -4411,7 +4010,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Ninja
-```Ninja
 ### Results
 ```Ninja
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -4422,7 +4020,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## XProc
-```XProc
 ### Results
 ```XProc
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -4433,7 +4030,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## D
-```D
 ### Results
 ```D
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -4444,7 +4040,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## SVG
-```SVG
 ### Results
 ```SVG
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -4455,7 +4050,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Opal
-```Opal
 ### Results
 ```Opal
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -4466,7 +4060,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## TI Program
-```TI Program
 ### Results
 ```TI Program
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -4477,7 +4070,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Standard ML
-```Standard ML
 ### Results
 ```Standard ML
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -4488,7 +4080,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## ColdFusion CFC
-```ColdFusion CFC
 ### Results
 ```ColdFusion CFC
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -4499,7 +4090,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Batchfile
-```Batchfile
 ### Results
 ```Batchfile
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -4510,7 +4100,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Oz
-```Oz
 ### Results
 ```Oz
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -4521,7 +4110,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Ox
-```Ox
 ### Results
 ```Ox
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -4532,7 +4120,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## PowerShell
-```PowerShell
 ### Results
 ```PowerShell
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -4543,7 +4130,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## J
-```J
 ### Results
 ```J
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -4554,7 +4140,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Roff
-```Roff
 ### Results
 ```Roff
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -4565,7 +4150,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Handlebars
-```Handlebars
 ### Results
 ```Handlebars
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -4576,7 +4160,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Cycript
-```Cycript
 ### Results
 ```Cycript
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -4587,7 +4170,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## DNS Zone
-```DNS Zone
 ### Results
 ```DNS Zone
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -4598,7 +4180,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Pure Data
-```Pure Data
 ### Results
 ```Pure Data
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -4609,7 +4190,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## KiCad Layout
-```KiCad Layout
 ### Results
 ```KiCad Layout
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -4620,7 +4200,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Arc
-```Arc
 ### Results
 ```Arc
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -4631,7 +4210,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Brainfuck
-```Brainfuck
 ### Results
 ```Brainfuck
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -4642,7 +4220,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Filebench WML
-```Filebench WML
 ### Results
 ```Filebench WML
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -4653,7 +4230,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Genshi
-```Genshi
 ### Results
 ```Genshi
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -4664,7 +4240,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Hack
-```Hack
 ### Results
 ```Hack
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -4675,7 +4250,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## World of Warcraft Addon Data
-```World of Warcraft Addon Data
 ### Results
 ```World of Warcraft Addon Data
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -4686,7 +4260,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Edje Data Collection
-```Edje Data Collection
 ### Results
 ```Edje Data Collection
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -4697,7 +4270,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## SQF
-```SQF
 ### Results
 ```SQF
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -4708,7 +4280,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Glyph
-```Glyph
 ### Results
 ```Glyph
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -4719,7 +4290,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## OpenType Feature File
-```OpenType Feature File
 ### Results
 ```OpenType Feature File
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -4730,7 +4300,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Pic
-```Pic
 ### Results
 ```Pic
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -4741,7 +4310,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Java
-```Java
 ### Results
 ```Java
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -4752,7 +4320,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Scala
-```Scala
 ### Results
 ```Scala
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -4763,7 +4330,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## OpenSCAD
-```OpenSCAD
 ### Results
 ```OpenSCAD
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -4774,7 +4340,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## PostScript
-```PostScript
 ### Results
 ```PostScript
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -4785,7 +4350,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Haxe
-```Haxe
 ### Results
 ```Haxe
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -4796,7 +4360,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Forth
-```Forth
 ### Results
 ```Forth
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -4807,7 +4370,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Asymptote
-```Asymptote
 ### Results
 ```Asymptote
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -4818,7 +4380,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Hy
-```Hy
 ### Results
 ```Hy
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -4829,7 +4390,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## RobotFramework
-```RobotFramework
 ### Results
 ```RobotFramework
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -4840,7 +4400,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Python console
-```Python console
 ### Results
 ```Python console
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -4851,7 +4410,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Lex
-```Lex
 ### Results
 ```Lex
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -4862,7 +4420,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Ruby
-```Ruby
 ### Results
 ```Ruby
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -4873,7 +4430,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## AutoHotkey
-```AutoHotkey
 ### Results
 ```AutoHotkey
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -4884,7 +4440,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## VCL
-```VCL
 ### Results
 ```VCL
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -4895,7 +4450,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## SQL
-```SQL
 ### Results
 ```SQL
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -4906,7 +4460,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## RDoc
-```RDoc
 ### Results
 ```RDoc
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -4917,7 +4470,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Graph Modeling Language
-```Graph Modeling Language
 ### Results
 ```Graph Modeling Language
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -4928,7 +4480,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Java Server Pages
-```Java Server Pages
 ### Results
 ```Java Server Pages
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -4939,7 +4490,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Logtalk
-```Logtalk
 ### Results
 ```Logtalk
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -4950,7 +4500,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Boo
-```Boo
 ### Results
 ```Boo
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -4961,7 +4510,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Svelte
-```Svelte
 ### Results
 ```Svelte
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -4972,7 +4520,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Prolog
-```Prolog
 ### Results
 ```Prolog
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -4983,7 +4530,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Turtle
-```Turtle
 ### Results
 ```Turtle
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -4994,7 +4540,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Pony
-```Pony
 ### Results
 ```Pony
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -5005,7 +4550,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## SPARQL
-```SPARQL
 ### Results
 ```SPARQL
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -5016,7 +4560,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## AMPL
-```AMPL
 ### Results
 ```AMPL
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -5027,7 +4570,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## reStructuredText
-```reStructuredText
 ### Results
 ```reStructuredText
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -5038,7 +4580,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Quake
-```Quake
 ### Results
 ```Quake
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -5049,7 +4590,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## X BitMap
-```X BitMap
 ### Results
 ```X BitMap
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -5060,7 +4600,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Mako
-```Mako
 ### Results
 ```Mako
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -5071,7 +4610,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## GAMS
-```GAMS
 ### Results
 ```GAMS
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -5082,7 +4620,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Csound
-```Csound
 ### Results
 ```Csound
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -5093,7 +4630,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Elm
-```Elm
 ### Results
 ```Elm
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -5104,7 +4640,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Dhall
-```Dhall
 ### Results
 ```Dhall
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -5115,7 +4650,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Propeller Spin
-```Propeller Spin
 ### Results
 ```Propeller Spin
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -5126,7 +4660,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## SSH Config
-```SSH Config
 ### Results
 ```SSH Config
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -5137,7 +4670,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Rascal
-```Rascal
 ### Results
 ```Rascal
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -5148,7 +4680,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## STON
-```STON
 ### Results
 ```STON
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -5159,7 +4690,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Ada
-```Ada
 ### Results
 ```Ada
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -5170,7 +4700,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## GAML
-```GAML
 ### Results
 ```GAML
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -5181,7 +4710,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Creole
-```Creole
 ### Results
 ```Creole
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -5192,7 +4720,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Nu
-```Nu
 ### Results
 ```Nu
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -5203,7 +4730,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## NL
-```NL
 ### Results
 ```NL
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -5214,7 +4740,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## FLUX
-```FLUX
 ### Results
 ```FLUX
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -5225,7 +4750,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## NetLogo
-```NetLogo
 ### Results
 ```NetLogo
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -5236,7 +4760,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## QML
-```QML
 ### Results
 ```QML
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -5247,7 +4770,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## SaltStack
-```SaltStack
 ### Results
 ```SaltStack
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -5258,7 +4780,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## KiCad Legacy Layout
-```KiCad Legacy Layout
 ### Results
 ```KiCad Legacy Layout
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -5269,7 +4790,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## fish
-```fish
 ### Results
 ```fish
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -5280,7 +4800,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Fantom
-```Fantom
 ### Results
 ```Fantom
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -5291,7 +4810,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Unix Assembly
-```Unix Assembly
 ### Results
 ```Unix Assembly
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -5302,7 +4820,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## XML Property List
-```XML Property List
 ### Results
 ```XML Property List
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -5313,7 +4830,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## TeX
-```TeX
 ### Results
 ```TeX
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -5324,7 +4840,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Pep8
-```Pep8
 ### Results
 ```Pep8
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -5335,7 +4850,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## nanorc
-```nanorc
 ### Results
 ```nanorc
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -5346,7 +4860,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Smali
-```Smali
 ### Results
 ```Smali
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -5357,7 +4870,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Ballerina
-```Ballerina
 ### Results
 ```Ballerina
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -5368,7 +4880,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## LTspice Symbol
-```LTspice Symbol
 ### Results
 ```LTspice Symbol
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -5379,7 +4890,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Lua
-```Lua
 ### Results
 ```Lua
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -5390,7 +4900,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Tea
-```Tea
 ### Results
 ```Tea
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -5401,7 +4910,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Golo
-```Golo
 ### Results
 ```Golo
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -5412,7 +4920,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Stylus
-```Stylus
 ### Results
 ```Stylus
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -5423,7 +4930,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## wisp
-```wisp
 ### Results
 ```wisp
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -5434,7 +4940,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## GDB
-```GDB
 ### Results
 ```GDB
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -5445,7 +4950,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Puppet
-```Puppet
 ### Results
 ```Puppet
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -5456,7 +4960,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## ActionScript
-```ActionScript
 ### Results
 ```ActionScript
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -5467,7 +4970,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Diff
-```Diff
 ### Results
 ```Diff
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -5478,7 +4980,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Cpp-ObjDump
-```Cpp-ObjDump
 ### Results
 ```Cpp-ObjDump
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -5489,7 +4990,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Twig
-```Twig
 ### Results
 ```Twig
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -5500,7 +5000,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Wavefront Object
-```Wavefront Object
 ### Results
 ```Wavefront Object
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -5511,7 +5010,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Ioke
-```Ioke
 ### Results
 ```Ioke
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -5522,7 +5020,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Gnuplot
-```Gnuplot
 ### Results
 ```Gnuplot
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -5533,7 +5030,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Apex
-```Apex
 ### Results
 ```Apex
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -5544,7 +5040,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## DataWeave
-```DataWeave
 ### Results
 ```DataWeave
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -5555,7 +5050,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## ECLiPSe
-```ECLiPSe
 ### Results
 ```ECLiPSe
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -5566,7 +5060,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## OpenEdge ABL
-```OpenEdge ABL
 ### Results
 ```OpenEdge ABL
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -5577,7 +5070,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## TXL
-```TXL
 ### Results
 ```TXL
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -5588,7 +5080,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## PLSQL
-```PLSQL
 ### Results
 ```PLSQL
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -5599,7 +5090,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Dockerfile
-```Dockerfile
 ### Results
 ```Dockerfile
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -5610,7 +5100,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Solidity
-```Solidity
 ### Results
 ```Solidity
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -5621,7 +5110,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Common Lisp
-```Common Lisp
 ### Results
 ```Common Lisp
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -5632,7 +5120,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Dart
-```Dart
 ### Results
 ```Dart
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -5643,7 +5130,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## XQuery
-```XQuery
 ### Results
 ```XQuery
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -5654,7 +5140,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## SystemVerilog
-```SystemVerilog
 ### Results
 ```SystemVerilog
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -5665,7 +5150,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## E
-```E
 ### Results
 ```E
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -5676,7 +5160,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Papyrus
-```Papyrus
 ### Results
 ```Papyrus
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -5687,7 +5170,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## CartoCSS
-```CartoCSS
 ### Results
 ```CartoCSS
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -5698,7 +5180,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Pickle
-```Pickle
 ### Results
 ```Pickle
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -5709,7 +5190,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Pod
-```Pod
 ### Results
 ```Pod
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -5720,7 +5200,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Jison Lex
-```Jison Lex
 ### Results
 ```Jison Lex
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -5731,7 +5210,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Augeas
-```Augeas
 ### Results
 ```Augeas
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -5742,7 +5220,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Fancy
-```Fancy
 ### Results
 ```Fancy
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -5753,7 +5230,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Closure Templates
-```Closure Templates
 ### Results
 ```Closure Templates
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -5764,7 +5240,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## Game Maker Language
-```Game Maker Language
 ### Results
 ```Game Maker Language
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -5775,7 +5250,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## RUNOFF
-```RUNOFF
 ### Results
 ```RUNOFF
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
@@ -5786,7 +5260,6 @@ UDCTF{i'll_never_get_to_take_a_byte_out_of_a_jimmy_john's_sandwich_again_RIP_Jim
 ```
 
 ## AGS Script
-```AGS Script
 ### Results
 ```AGS Script
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
