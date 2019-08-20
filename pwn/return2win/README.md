@@ -15,5 +15,5 @@ Connect to the server at: nc 52.15.140.126 5007
 
 ## The Flag 
 ```bash
-[96mUDCTF[00m[92m{[00m[91mhere's_your_flag[00m[92m}[00m
+UDCTF{here's_your_flag}
 ```

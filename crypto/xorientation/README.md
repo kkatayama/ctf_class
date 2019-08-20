@@ -15,5 +15,5 @@
 
 ## The Flag 
 ```bash
-Congratulations, you solved this challenge!  Here is your flag: [96mUDCTF[00m[92m{[00m[91mX0r_1s_my_f4v0r1t3[00m[92m}[00m
+Congratulations, you solved this challenge!  Here is your flag: UDCTF{X0r_1s_my_f4v0r1t3}
 ```

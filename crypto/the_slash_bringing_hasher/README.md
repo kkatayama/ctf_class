@@ -15,5 +15,5 @@ Nosferatu!
 
 ## The Flag 
 ```bash
-[96mUDCTF[00m[92m{[00m[91my0u_m34n_y0uv3_n3v3r_h34rd_th3_st0ry_0f_th3_h4sh_sl1ng1ng_sl4sh3r?[00m[92m}[00m
+UDCTF{y0u_m34n_y0uv3_n3v3r_h34rd_th3_st0ry_0f_th3_h4sh_sl1ng1ng_sl4sh3r?}
 ```

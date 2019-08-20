@@ -17,5 +17,5 @@ Server is running at: nc 52.15.140.126 5005
 
 ## The Flag 
 ```bash
-[96mUDCTF[00m[92m{[00m[91mROP_NOP_POP_OP[00m[92m}[00m
+UDCTF{ROP_NOP_POP_OP}
 ```

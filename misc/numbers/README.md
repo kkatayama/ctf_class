@@ -19,5 +19,5 @@
 
 ## The Flag 
 ```bash
-[96mUDCTF[00m[92m{[00m[91mwh4t_d03s_1t_4ll_m34n_B4s1l?[00m[92m}[00m
+UDCTF{wh4t_d03s_1t_4ll_m34n_B4s1l?}
 ```

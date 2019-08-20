@@ -15,5 +15,5 @@ My friend just sent me an encrypted message along with the values <i>d</i> and <
 
 ## The Flag 
 ```bash
-[96mUDCTF[00m[92m{[00m[91my0u_kn0w_RSA!!![00m[92m}[00m
+UDCTF{y0u_kn0w_RSA!!!}
 ```

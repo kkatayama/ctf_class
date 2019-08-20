@@ -17,5 +17,5 @@ I encrypted the flag with XOR!
 
 ## The Flag 
 ```bash
-[96mUDCTF[00m[92m{[00m[91muh_0h_1_d1dnt_m4k3_my_k3y_l0ng_en0ugh[00m[92m}[00m
+UDCTF{uh_0h_1_d1dnt_m4k3_my_k3y_l0ng_en0ugh}
 ```

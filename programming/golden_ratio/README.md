@@ -17,5 +17,5 @@ nc 52.15.140.126 6002
 
 ## The Flag 
 ```bash
-[96mUDCTF[00m[92m{[00m[91m0H_$h!t_y0u_kn0w_b!g_0h[00m[92m}[00m
+UDCTF{0H_$h!t_y0u_kn0w_b!g_0h}
 ```

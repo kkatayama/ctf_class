@@ -17,5 +17,5 @@ Here's a brand new cipher. I bet you can't break it. When you're smart enough, y
 
 ## The Flag 
 ```bash
-[96mUDCTF[00m[92m{[00m[91m1337h@xY0[00m[92m}[00m
+UDCTF{1337h@xY0}
 ```
