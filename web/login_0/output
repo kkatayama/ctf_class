@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Source</title>
+</head>
+<body>
+  <h2>
+    Welcome to the admin portal!
+  </h2>
+  <br>
+  <!-- Please Remove Later!! admin password is youcantguessme -->
+  <form action="login.php" method="get">
+    Username:<input type="text" name = "user"><br>
+    Password:<input type="text" name = "pass"><br>
+    <input type="submit" value="Submit">
+  </form>
+</body>
+</html>
+UDCTF{d0nT_pUt_p4assw0rds_in_th3_s0urc3}<br>

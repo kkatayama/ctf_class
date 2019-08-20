@@ -1,0 +1,59 @@
+[x] Opening connection to 52.15.140.126 on port 6969
+[x] Opening connection to 52.15.140.126 on port 6969: Trying 52.15.140.126
+[+] Opening connection to 52.15.140.126 on port 6969: Done
+recv: Find a string such that sha1[:2] is 3f
+
+recv: Find a string such that sha1[:2] is 3f
+ > 
+sha1 2 3f
+sending: abacterial
+recv: Find a string such that sha1[:2] is 28
+
+recv: Find a string such that sha1[:2] is 28
+ > 
+sha1 2 28
+sending: abelias
+recv: Find a string such that md5[:4] is d1be
+
+recv: Find a string such that md5[:4] is d1be
+ > 
+md5 4 d1be
+sending: silicifications
+recv: Find a string such that sha1[:6] is 662948
+
+recv: Find a string such that sha1[:6] is 662948
+ > 
+sha1 6 662948
+sending: naamansa
+recv: Find a string such that md5[:2] is 53
+ > 
+md5 2 53
+sending: absences
+recv: Find a string such that sha1[:2] is e4
+
+recv: Find a string such that sha1[:2] is e4
+ > 
+sha1 2 e4
+sending: abreacts
+recv: Find a string such that md5[:6] is a49d0f
+
+recv: Find a string such that md5[:6] is a49d0f
+ > 
+md5 6 a49d0f
+sending: benefiting
+recv: Find a string such that md5[:6] is 2c0baf
+
+recv: Find a string such that md5[:6] is 2c0baf
+ > 
+md5 6 2c0baf
+sending: wannaplayrbd
+recv: Find a string such that md5[:4] is 0bca
+
+recv: Find a string such that md5[:4] is 0bca
+ > 
+md5 4 0bca
+sending: caress
+recv: Find a string such that sha1[:6] is a9212d
+
+sha1 6 a9212d
+[*] Closed connection to 52.15.140.126 port 6969

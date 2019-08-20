@@ -1,0 +1,85 @@
+# coding: utf-8
+from pwn import *
+from PIL import Image
+from hashlib import sha256
+import re
+
+def red(prt):
+    return "\033[91m{}\033[00m".format(prt)
+def grn(prt):
+    return "\033[92m{}\033[00m".format(prt)
+def cyn(prt):
+    return "\033[96m{}\033[00m".format(prt)
+def flag(stuff):
+    inner = re.search(r"\{.+\}", stuff).group()
+    return  stuff.replace('UDCTF', cyn('UDCTF')).replace(inner.strip('{}'), red(inner.strip('{}'))).replace('{', grn('{')).replace('}', grn('}'))
+
+### Open all image keys and map them with their signature ###
+### Looks like the character `R` is never used ###
+def gen_signatures():
+    lookup_table = {}
+    for i in range(65, 91):
+        if i != 82:
+            with open(chr(i)+'.png', 'rb') as f:
+                raw = f.read()
+            lookup_table[sha256(raw).hexdigest()] = chr(i)
+    return lookup_table
+
+# REF: https://dzone.com/articles/how-to-crop-a-photo-with-python
+def crop(image_path, coords, saved_location):
+    """
+    @param image_path: The path to the image to edit
+    @param coords: A tuple of x/y coordinates (x1, y1, x2, y2)
+    @param saved_location: Path to save the cropped image
+    """
+    image_obj = Image.open(image_path)
+    cropped_image = image_obj.crop(coords)
+    cropped_image.save(saved_location)
+
+def save(pic, filename):
+    with open(filename, 'wb') as f:
+        f.write(pic)
+
+def im_open(filename):
+    with open(filename, 'rb') as f:
+        img = f.read()
+    return img
+
+def s(stuff, condition, status):
+    if status == 'send':
+        print 'sending:', stuff
+        r.sendline(stuff)
+    msg = ''
+    while condition not in msg and 'UDCTF' not in msg:
+        while r.can_recv(timeout=0.1):
+            msg += r.recv()
+            print 'recv:', msg[-50:]
+    return msg
+
+### START HACK ###
+lookup = gen_signatures()
+r = remote('52.15.140.126', 6968)
+cond = '\n'
+m = s('', cond, '')
+
+found = False
+while not found:
+    if 'UDCTF{' in m:
+        found = True
+    elif cond in m:
+        if m.count(cond) == 1:
+            temp = m.split(cond)[0].decode('hex')
+        else:
+            temp = m.split(cond)[1].decode('hex')
+        save(temp, 'temp.png')                                                   # save cipher image to temp.pnp
+        
+        ans = ''
+        for i in range(4):       
+            crop('temp.png', ((i)*30, 0, (i+1)*30, 27), 'temp_'+str(i)+'.png')   # crop image into 4 images
+            ans += lookup[sha256(im_open('temp_'+str(i)+'.png')).hexdigest()]    # decode each image with corresponding character
+        m = s(ans, cond, 'send')                                                 # send decoded message and get the next one
+
+
+temp = 'UDCTF{' + m.split('UDCTF{')[1].split('}')[0] + '}'
+print 'FLAG:', flag(temp)
+save(flag(temp), 'flag.txt')

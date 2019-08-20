@@ -1,0 +1,3 @@
+# https://www.dcode.fr/gravity-falls-bill-cipher
+# https://gravityfalls.fandom.com/wiki/List_of_cryptograms/Books#Bill.27s_symbol_substitution_cipher
+for i in {65..90}; do echo https://www.dcode.fr/tools/gravity-falls-bill/images/char($i).png; done;

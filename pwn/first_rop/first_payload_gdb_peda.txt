@@ -1,0 +1,16 @@
+gdb-peda$ run < in.bin
+Starting program: /home/katayama/ctf_class/split32/split32 < in.bin
+split by ROP Emporium
+32bits
+
+Contriving a reason to ask user for data...
+> [New process 23582]
+process 23582 is executing new program: /bin/dash
+[New process 23583]
+process 23583 is executing new program: /bin/ls
+[Thread debugging using libthread_db enabled]
+Using host libthread_db library "/lib/x86_64-linux-gnu/libthread_db.so.1".
+core  flag.txt	in.bin	peda-session-split32.txt  split32  try_hack_rop.py
+[Inferior 3 (process 23583) exited normally]
+Warning: not running
+

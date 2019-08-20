@@ -1,0 +1,171 @@
+[x] Opening connection to 52.15.140.126 on port 7001
+[x] Opening connection to 52.15.140.126 on port 7001: Trying 52.15.140.126
+[+] Opening connection to 52.15.140.126 on port 7001: Done
+recv: Level 1
+What is the hexdigest of the sha1(distemperatures)?
+ > 
+sending: 83e498389b77aafff40a2f55d5fe8ff861b0df62
+recv: Nice!
+What is the hexdigest of the sha1(cutblock)?
+ > 
+sending: 13e29d5bfb28044ceaa57e23db25f6fadc9426a7
+recv: Nice!
+What is the hexdigest of the sha1(deglazing)?
+ > 
+sending: e0a92262ac4de8a2cb0f981b9898674a3c563ed4
+recv: Nice!
+What is the hexdigest of the sha1(atomically)?
+ > 
+sending: 035c31229bf4f528a298d211c7911c455d388b84
+recv: Nice!
+What is the hexdigest of the sha1(chintzier)?
+ > 
+sending: 8747ae2e055b4a69f9b5f7b5435dc49e18bdda0f
+recv: Nice!
+What is the hexdigest of the sha1(wonners)?
+ > 
+sending: c079d4fac09af1dc86e9bbe2f08675583bb89706
+recv: Nice!
+What is the hexdigest of the sha1(finessing)?
+ > 
+sending: 7f36ffc799e5327f191a88bab1e5ada4e34e1486
+recv: Nice!
+What is the hexdigest of the sha1(leatherleaf)?
+ > 
+sending: 06c66b3a8fc6199bbc22bf918de0c15a416c0473
+recv: Nice!
+What is the hexdigest of the sha1(truantry)?
+ > 
+sending: 63ffb2f1b88c5f917808cd8e30fd2fc34f66f53b
+recv: Nice!
+What is the hexdigest of the sha1(relumes)?
+ > 
+sending: 9e79cd99055c8db1b9aa989d0efbea1c7fc747b1
+recv: Nice!
+Level 2
+What is the hexdigest of the sha256(tizzy)?
+ > 
+sending: 9306b9859e8d0b9bf854d5686ca08618d3ba4b91d76d1ecb1ecc4203f9a8657c
+recv: Nice!
+What is the hexdigest of the sha256(pipistrelles)?
+ > 
+sending: 65c1fbb2dee0350386d97239ef76b88b72aa292d43624470b16ae6ed2ab21de9
+recv: Nice!
+What is the hexdigest of the sha256(restyled)?
+ > 
+sending: 276e9695c8305eb7c8fac8e02a7570b01611f970e147843d616f97781c45f602
+recv: Nice!
+What is the hexdigest of the sha256(sparging)?
+ > 
+sending: 0a90f0f143748a7781475dd46b1d4a861b7fe964a478e53788c3a296cabb8559
+recv: Nice!
+What is the hexdigest of the sha256(rehammers)?
+ > 
+sending: 685c6fee4c5549df8c725855661132c0aeed02619d62a2dcd12d446afb196891
+recv: Nice!
+What is the hexdigest of the sha256(inundator)?
+ > 
+sending: aac8720e42b9aa7e30c78df16bef72cffd4431fcec3a6bca6998a6043043ed91
+recv: Nice!
+What is the hexdigest of the sha256(orthodontists)?
+ > 
+sending: a29d10f44bd706982a9d4a26d7c74780add610742fae02b358e10827de53288f
+recv: Nice!
+What is the hexdigest of the sha256(shlock)?
+ > 
+sending: 99d375d731ec4ee0de5e1172cad5c7c4d10a140dd44d8d9b5cb9ee222da87c41
+recv: Nice!
+What is the hexdigest of the sha256(gleeked)?
+ > 
+sending: 92781a8cf4df3b2e6e1428fc21474fdef8188e985571068dcd41be16faf02e7d
+recv: Nice!
+What is the hexdigest of the sha256(zapateado)?
+ > 
+sending: abd339670720d60883c4279429dc938e139ff53919c7ab37700841ada27d8564
+recv: Nice!
+Level 3
+Find me a word such that sha256(word).hexdigest() == 5634f8134dab1086a3f191924a779fb89d27563704f1d0e5ce83ebd573a3c48e
+ > 
+sending: brutism
+recv: Noice!
+Find me a word such that sha256(word).hexdigest() == 804ea6732d9448e33c78ba3445b1a47d7510742e3c95753bc94099fe7cfa6c97
+ > 
+sending: kerygmata
+recv: Noice!
+Find me a word such that sha256(word).hexdigest() == cdab99435e40363590516822b0004e875d100d7f8edefb3562fcaba00494a821
+ > 
+sending: auditives
+recv: Noice!
+Find me a word such that sha256(word).hexdigest() == efeedd58888a8f8f48b66141e6523c74630ab9ad2db3185ef9a5d80a94ed2854
+ > 
+sending: cataphoretic
+recv: Noice!
+Find me a word such that sha256(word).hexdigest() == 4084c344c441f89c4c37cc4945ec19fb5508eb1b3b10e5565e1b7f116a671ca8
+ > 
+sending: druidic
+recv: Noice!
+Find me a word such that sha256(word).hexdigest() == ef3df4c1b79ba696edc07943a36270d7492e8de1567b2fa482712e3bc7ce2338
+ > 
+sending: furfuran
+recv: Noice!
+Find me a word such that sha256(word).hexdigest() == 362a284952d3a7250e4bdd72a659ea78e8ec79804e0e6a2053dfe4c10e7d79f1
+ > 
+sending: road
+recv: Noice!
+Find me a word such that sha256(word).hexdigest() == e027a26abee21e84732de50d42c818917f75f04617afa9ef5cb32fa21fc77f65
+ > 
+sending: trishaw
+recv: Noice!
+Find me a word such that sha256(word).hexdigest() == 7ec137fa0300ccfaa53fa6cafe39ade417714bab1ce98af1deca293e55a10bd6
+ > 
+sending: minbars
+recv: Noice!
+Find me a word such that sha256(word).hexdigest() == a2137e04af9b0c3df7949858da211f26dd90b19eaaa189f96040ddea13743673
+ > 
+sending: pulsator
+recv: Noice!
+I hashed a four letter random string of lowercase letters, with md5. Tell me what that string is
+The md5(word).hexdigest() == 2d0289689729ed95ae6f658f5507357e, find me the word
+ > 
+sending: opxn
+recv: big chungus in the house!
+The md5(word).hexdigest() == bd6a4dba2504f79d23ca62f2e8543a80, find me the word
+ > 
+sending: xspe
+recv: big chungus in the house!
+The md5(word).hexdigest() == a9c7394bc3d6e77c04590ed065f0be24, find me the word
+ > 
+sending: rcrp
+recv: big chungus in the house!
+The md5(word).hexdigest() == 1d6558355edabf6f8299d541972e53a4, find me the word
+ > 
+sending: utct
+recv: big chungus in the house!
+The md5(word).hexdigest() == 0fbf845c5e80d4ff5ea01ca033d91835, find me the word
+ > 
+sending: ziqz
+recv: big chungus in the house!
+The md5(word).hexdigest() == 5f0ae7134129f264ad5f9e052bf1ea82, find me the word
+ > 
+sending: smjp
+recv: big chungus in the house!
+The md5(word).hexdigest() == 20024b7d8b21a6cd76aa1b24c579dd71, find me the word
+ > 
+sending: uhpj
+recv: big chungus in the house!
+The md5(word).hexdigest() == d0e19409b92d1d3a31d4dc78c1b99dfd, find me the word
+ > 
+sending: kccy
+recv: big chungus in the house!
+The md5(word).hexdigest() == 0536c793c5a235580fa6835ab2d151b4, find me the word
+ > 
+sending: hiyq
+recv: big chungus in the house!
+The md5(word).hexdigest() == 1e50190d2bc1aea57db4bf473fa2cf12, find me the word
+ > 
+sending: xjli
+recv: big chungus in the house!
+ur the hash hero, here's your flag: UDCTF{1_l!k3_h@$h_bR0wnZ_4_br3@kfA$t}
+
+FLAG: [96mUDCTF[00m[92m{[00m[91m1_l!k3_h@$h_bR0wnZ_4_br3@kfA$t[00m[92m}[00m
+[*] Closed connection to 52.15.140.126 port 7001

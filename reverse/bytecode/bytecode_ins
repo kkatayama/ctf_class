@@ -1,0 +1,334 @@
+  0 LOAD_CONST               1 ('Uh oh!')
+  3 PRINT_ITEM          
+  4 PRINT_NEWLINE       
+  5 LOAD_GLOBAL              0 (exit)
+  8 CALL_FUNCTION            0
+ 11 POP_TOP             
+ 12 LOAD_CONST               0 (None)
+ 15 RETURN_VALUE
+  0 LOAD_CONST               1 ('You did it!')
+  3 PRINT_ITEM          
+  4 PRINT_NEWLINE       
+  5 LOAD_GLOBAL              0 (exit)
+  8 CALL_FUNCTION            0
+ 11 POP_TOP             
+ 12 LOAD_CONST               0 (None)
+ 15 RETURN_VALUE
+  0 LOAD_GLOBAL              0 (ord)
+  3 LOAD_GLOBAL              1 (flag)
+  6 LOAD_CONST               1 (0)
+  9 BINARY_SUBSCR       
+ 10 CALL_FUNCTION            1
+ 13 LOAD_CONST               2 (40)
+ 16 BINARY_ADD          
+ 17 LOAD_GLOBAL              0 (ord)
+ 20 LOAD_GLOBAL              1 (flag)
+ 23 LOAD_CONST               3 (-1)
+ 26 BINARY_SUBSCR       
+ 27 CALL_FUNCTION            1
+ 30 COMPARE_OP               3 (!=)
+ 33 POP_JUMP_IF_TRUE        72
+ 36 LOAD_GLOBAL              0 (ord)
+ 39 LOAD_GLOBAL              1 (flag)
+ 42 LOAD_CONST               3 (-1)
+ 45 BINARY_SUBSCR       
+ 46 CALL_FUNCTION            1
+ 49 LOAD_CONST               4 (2)
+ 52 BINARY_SUBTRACT     
+ 53 LOAD_GLOBAL              0 (ord)
+ 56 LOAD_GLOBAL              1 (flag)
+ 59 LOAD_CONST               5 (5)
+ 62 BINARY_SUBSCR       
+ 63 CALL_FUNCTION            1
+ 66 COMPARE_OP               3 (!=)
+ 69 POP_JUMP_IF_FALSE       82
+ 72 LOAD_GLOBAL              2 (fail)
+ 75 CALL_FUNCTION            0
+ 78 POP_TOP             
+ 79 JUMP_FORWARD             0 (to 82)
+ 82 LOAD_GLOBAL              1 (flag)
+ 85 LOAD_CONST               5 (5)
+ 88 SLICE+2             
+ 89 LOAD_CONST               6 ('UDCTF')
+ 92 COMPARE_OP               3 (!=)
+ 95 POP_JUMP_IF_FALSE      108
+ 98 LOAD_GLOBAL              2 (fail)
+101 CALL_FUNCTION            0
+104 POP_TOP             
+105 JUMP_FORWARD             0 (to 108)
+108 LOAD_GLOBAL              1 (flag)
+111 LOAD_CONST               7 (10)
+114 BINARY_SUBSCR       
+115 LOAD_GLOBAL              1 (flag)
+118 LOAD_CONST               8 (15)
+121 BINARY_SUBSCR       
+122 COMPARE_OP               3 (!=)
+125 POP_JUMP_IF_TRUE       148
+128 LOAD_GLOBAL              1 (flag)
+131 LOAD_CONST               8 (15)
+134 BINARY_SUBSCR       
+135 LOAD_GLOBAL              1 (flag)
+138 LOAD_CONST               9 (20)
+141 BINARY_SUBSCR       
+142 COMPARE_OP               3 (!=)
+145 POP_JUMP_IF_FALSE      158
+148 LOAD_GLOBAL              2 (fail)
+151 CALL_FUNCTION            0
+154 POP_TOP             
+155 JUMP_FORWARD             0 (to 158)
+158 LOAD_GLOBAL              3 (int)
+161 LOAD_GLOBAL              1 (flag)
+164 LOAD_CONST              10 (6)
+167 BINARY_SUBSCR       
+168 CALL_FUNCTION            1
+171 LOAD_GLOBAL              3 (int)
+174 LOAD_GLOBAL              1 (flag)
+177 LOAD_CONST              11 (14)
+180 BINARY_SUBSCR       
+181 CALL_FUNCTION            1
+184 BINARY_ADD          
+185 LOAD_GLOBAL              3 (int)
+188 LOAD_GLOBAL              1 (flag)
+191 LOAD_CONST              12 (19)
+194 BINARY_SUBSCR       
+195 CALL_FUNCTION            1
+198 BINARY_ADD          
+199 LOAD_CONST              13 (7)
+202 COMPARE_OP               3 (!=)
+205 POP_JUMP_IF_FALSE      218
+208 LOAD_GLOBAL              2 (fail)
+211 CALL_FUNCTION            0
+214 POP_TOP             
+215 JUMP_FORWARD             0 (to 218)
+218 LOAD_GLOBAL              1 (flag)
+221 LOAD_CONST              11 (14)
+224 BINARY_SUBSCR       
+225 LOAD_GLOBAL              1 (flag)
+228 LOAD_CONST              12 (19)
+231 BINARY_SUBSCR       
+232 COMPARE_OP               3 (!=)
+235 POP_JUMP_IF_TRUE       260
+238 LOAD_GLOBAL              0 (ord)
+241 LOAD_GLOBAL              1 (flag)
+244 LOAD_CONST              12 (19)
+247 BINARY_SUBSCR       
+248 CALL_FUNCTION            1
+251 LOAD_CONST              14 (51)
+254 COMPARE_OP               3 (!=)
+257 POP_JUMP_IF_FALSE      270
+260 LOAD_GLOBAL              2 (fail)
+263 CALL_FUNCTION            0
+266 POP_TOP             
+267 JUMP_FORWARD             0 (to 270)
+270 LOAD_GLOBAL              1 (flag)
+273 LOAD_CONST              15 (11)
+276 LOAD_CONST              11 (14)
+279 SLICE+3             
+280 LOAD_CONST              16 ('byt')
+283 COMPARE_OP               3 (!=)
+286 POP_JUMP_IF_FALSE      299
+289 LOAD_GLOBAL              2 (fail)
+292 CALL_FUNCTION            0
+295 POP_TOP             
+296 JUMP_FORWARD             0 (to 299)
+299 LOAD_GLOBAL              1 (flag)
+302 LOAD_CONST              17 (8)
+305 BINARY_SUBSCR       
+306 LOAD_GLOBAL              1 (flag)
+309 LOAD_CONST              18 (23)
+312 BINARY_SUBSCR       
+313 COMPARE_OP               3 (!=)
+316 POP_JUMP_IF_FALSE      329
+319 LOAD_GLOBAL              2 (fail)
+322 CALL_FUNCTION            0
+325 POP_TOP             
+326 JUMP_FORWARD             0 (to 329)
+329 LOAD_GLOBAL              0 (ord)
+332 LOAD_GLOBAL              1 (flag)
+335 LOAD_CONST              19 (17)
+338 BINARY_SUBSCR       
+339 CALL_FUNCTION            1
+342 LOAD_CONST               4 (2)
+345 BINARY_MODULO       
+346 LOAD_CONST               1 (0)
+349 COMPARE_OP               3 (!=)
+352 POP_JUMP_IF_TRUE       424
+355 LOAD_GLOBAL              0 (ord)
+358 LOAD_GLOBAL              1 (flag)
+361 LOAD_CONST              19 (17)
+364 BINARY_SUBSCR       
+365 CALL_FUNCTION            1
+368 LOAD_CONST              20 (3)
+371 BINARY_MODULO       
+372 LOAD_CONST               1 (0)
+375 COMPARE_OP               3 (!=)
+378 POP_JUMP_IF_TRUE       424
+381 LOAD_GLOBAL              0 (ord)
+384 LOAD_GLOBAL              1 (flag)
+387 LOAD_CONST              19 (17)
+390 BINARY_SUBSCR       
+391 CALL_FUNCTION            1
+394 LOAD_CONST              21 (4)
+397 BINARY_MODULO       
+398 LOAD_CONST               1 (0)
+401 COMPARE_OP               3 (!=)
+404 POP_JUMP_IF_TRUE       424
+407 LOAD_GLOBAL              1 (flag)
+410 LOAD_CONST              19 (17)
+413 BINARY_SUBSCR       
+414 LOAD_ATTR                4 (isdigit)
+417 CALL_FUNCTION            0
+420 UNARY_NOT           
+421 POP_JUMP_IF_FALSE      434
+424 LOAD_GLOBAL              2 (fail)
+427 CALL_FUNCTION            0
+430 POP_TOP             
+431 JUMP_FORWARD             0 (to 434)
+434 LOAD_GLOBAL              1 (flag)
+437 LOAD_CONST              22 (9)
+440 BINARY_SUBSCR       
+441 LOAD_GLOBAL              1 (flag)
+444 LOAD_CONST              23 (13)
+447 BINARY_SUBSCR       
+448 LOAD_ATTR                5 (upper)
+451 CALL_FUNCTION            0
+454 COMPARE_OP               3 (!=)
+457 POP_JUMP_IF_FALSE      470
+460 LOAD_GLOBAL              2 (fail)
+463 CALL_FUNCTION            0
+466 POP_TOP             
+467 JUMP_FORWARD             0 (to 470)
+470 LOAD_GLOBAL              0 (ord)
+473 LOAD_GLOBAL              1 (flag)
+476 LOAD_CONST              17 (8)
+479 BINARY_SUBSCR       
+480 CALL_FUNCTION            1
+483 LOAD_CONST               7 (10)
+486 BINARY_MODULO       
+487 LOAD_CONST               1 (0)
+490 COMPARE_OP               3 (!=)
+493 POP_JUMP_IF_TRUE       540
+496 LOAD_GLOBAL              0 (ord)
+499 LOAD_GLOBAL              1 (flag)
+502 LOAD_CONST              17 (8)
+505 BINARY_SUBSCR       
+506 CALL_FUNCTION            1
+509 LOAD_CONST              24 (100)
+512 COMPARE_OP               1 (<=)
+515 POP_JUMP_IF_TRUE       540
+518 LOAD_GLOBAL              0 (ord)
+521 LOAD_GLOBAL              1 (flag)
+524 LOAD_CONST              17 (8)
+527 BINARY_SUBSCR       
+528 CALL_FUNCTION            1
+531 LOAD_CONST              25 (120)
+534 COMPARE_OP               5 (>=)
+537 POP_JUMP_IF_FALSE      550
+540 LOAD_GLOBAL              2 (fail)
+543 CALL_FUNCTION            0
+546 POP_TOP             
+547 JUMP_FORWARD             0 (to 550)
+550 LOAD_GLOBAL              1 (flag)
+553 LOAD_CONST              26 (22)
+556 BINARY_SUBSCR       
+557 LOAD_CONST              27 ('U')
+560 COMPARE_OP               3 (!=)
+563 POP_JUMP_IF_TRUE       602
+566 LOAD_GLOBAL              0 (ord)
+569 LOAD_GLOBAL              1 (flag)
+572 LOAD_CONST              26 (22)
+575 BINARY_SUBSCR       
+576 CALL_FUNCTION            1
+579 LOAD_CONST              14 (51)
+582 BINARY_XOR          
+583 LOAD_GLOBAL              0 (ord)
+586 LOAD_GLOBAL              1 (flag)
+589 LOAD_CONST              28 (21)
+592 BINARY_SUBSCR       
+593 CALL_FUNCTION            1
+596 COMPARE_OP               3 (!=)
+599 POP_JUMP_IF_FALSE      612
+602 LOAD_GLOBAL              2 (fail)
+605 CALL_FUNCTION            0
+608 POP_TOP             
+609 JUMP_FORWARD             0 (to 612)
+612 LOAD_GLOBAL              0 (ord)
+615 LOAD_GLOBAL              1 (flag)
+618 LOAD_CONST              29 (16)
+621 BINARY_SUBSCR       
+622 CALL_FUNCTION            1
+625 LOAD_CONST              30 (99)
+628 COMPARE_OP               3 (!=)
+631 POP_JUMP_IF_TRUE       706
+634 LOAD_GLOBAL              0 (ord)
+637 LOAD_GLOBAL              1 (flag)
+640 LOAD_CONST              31 (18)
+643 BINARY_SUBSCR       
+644 CALL_FUNCTION            1
+647 LOAD_GLOBAL              0 (ord)
+650 LOAD_GLOBAL              1 (flag)
+653 LOAD_CONST              29 (16)
+656 BINARY_SUBSCR       
+657 CALL_FUNCTION            1
+660 BINARY_SUBTRACT     
+661 LOAD_CONST              32 (1)
+664 COMPARE_OP               3 (!=)
+667 POP_JUMP_IF_TRUE       706
+670 LOAD_GLOBAL              0 (ord)
+673 LOAD_GLOBAL              1 (flag)
+676 LOAD_CONST              31 (18)
+679 BINARY_SUBSCR       
+680 CALL_FUNCTION            1
+683 LOAD_CONST               8 (15)
+686 BINARY_ADD          
+687 LOAD_GLOBAL              0 (ord)
+690 LOAD_GLOBAL              1 (flag)
+693 LOAD_CONST              13 (7)
+696 BINARY_SUBSCR       
+697 CALL_FUNCTION            1
+700 COMPARE_OP               3 (!=)
+703 POP_JUMP_IF_FALSE      716
+706 LOAD_GLOBAL              2 (fail)
+709 CALL_FUNCTION            0
+712 POP_TOP             
+713 JUMP_FORWARD             0 (to 716)
+716 LOAD_GLOBAL              0 (ord)
+719 LOAD_GLOBAL              1 (flag)
+722 LOAD_CONST              33 (25)
+725 BINARY_SUBSCR       
+726 CALL_FUNCTION            1
+729 LOAD_CONST              35 (33)
+732 COMPARE_OP               3 (!=)
+735 POP_JUMP_IF_FALSE      748
+738 LOAD_GLOBAL              2 (fail)
+741 CALL_FUNCTION            0
+744 POP_TOP             
+745 JUMP_FORWARD             0 (to 748)
+748 LOAD_CONST               1 (0)
+751 STORE_FAST               0 (tmp)
+754 SETUP_LOOP              30 (to 787)
+757 LOAD_GLOBAL              1 (flag)
+760 GET_ITER            
+761 FOR_ITER                22 (to 786)
+764 STORE_FAST               1 (c)
+767 LOAD_FAST                0 (tmp)
+770 LOAD_GLOBAL              0 (ord)
+773 LOAD_FAST                1 (c)
+776 CALL_FUNCTION            1
+779 INPLACE_ADD         
+780 STORE_FAST               0 (tmp)
+783 JUMP_ABSOLUTE          761
+786 POP_BLOCK           
+787 LOAD_FAST                0 (tmp)
+790 LOAD_CONST              34 (2342)
+793 COMPARE_OP               3 (!=)
+796 POP_JUMP_IF_FALSE      809
+799 LOAD_GLOBAL              2 (fail)
+802 CALL_FUNCTION            0
+805 POP_TOP             
+806 JUMP_FORWARD             0 (to 809)
+809 LOAD_GLOBAL              6 (success)
+812 CALL_FUNCTION            0
+815 POP_TOP             
+816 LOAD_CONST               0 (None)
+819 RETURN_VALUE        

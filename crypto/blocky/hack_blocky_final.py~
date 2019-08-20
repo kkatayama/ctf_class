@@ -1,0 +1,27 @@
+# coding: utf-8
+from pwn import *
+from Crypto.Cipher import DES
+import itertools
+from tqdm import tqdm
+from collections import Counter
+import string
+import hashlib
+import teddy
+
+with open('ct1') as f:
+    ct1 = f.read().decode('hex')
+with open('ct2') as f:
+    ct2 = f.read().decode('hex')
+
+ct1_split = teddy.split_string(ct1, 8)
+ct2_split = teddy.split_string(ct2, 8)
+
+lookup_table = {}
+for i in range(100):
+    lookup_table[ct1_split[i]] = string.printable[i]
+
+plaintext = ''
+for ct in ct2_split:
+    plaintext += lookup_table[ct]
+
+print plaintext

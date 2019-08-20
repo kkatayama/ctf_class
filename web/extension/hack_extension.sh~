@@ -1,0 +1,1 @@
+hash=$(curl -s http://udctf.com:5001/\?username\=guest | html2text | grep -e "[0-9a-f]\{32\}")

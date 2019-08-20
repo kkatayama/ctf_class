@@ -1,0 +1,7 @@
+checksec ret2win32
+rabin2 -z ret2win32
+rabin2 -s ret2win32
+rabin2 -s ret2win32 | grep win
+dmesg |  grep ret2win
+dmesg |  grep ret2win
+r2 -r script.rr2 -Ad ret2win

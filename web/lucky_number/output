@@ -1,0 +1,108 @@
+
+examining site...
+
+curl -si http://udctf.com:5004/
+HTTP/1.1 200 OK
+Date: Sat, 17 Aug 2019 08:54:23 GMT
+Server: Apache/2.4.25 (Debian)
+X-Powered-By: PHP/7.3.6
+Vary: Accept-Encoding
+Content-Length: 607
+Content-Type: text/html; charset=UTF-8
+
+<!DOCTYPE html>
+<html>
+<center><h1>Can you guess my lucky number?</h1><br>
+<h4>I hid the flag on the page numbered as my lucky number :)</h4><br><br>
+<img src="./book.jpg"><br><br>
+<form action="./">
+	<input type="hidden" name="page" value="1">
+	<input type="submit" value="Page 1" />
+</form>
+<form action="./">
+	<input type="hidden" name="page" value="2">
+	<input type="submit" value="Page 2" />
+</form>
+<form action="./">
+	<input type="hidden" name="page" value="3">
+	<input type="submit" value="Page 3" />
+</form><br><br>
+e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855</center>
+</html>
+
+clicking around site...
+
+
+
+curl -sL http://udctf.com:5004/?page=1 | html2text
+<!DOCTYPE html>
+<html>
+<center><h1>Can you guess my lucky number?</h1><br>
+<h4>I hid the flag on the page numbered as my lucky number :)</h4><br><br>
+<img src="./book.jpg"><br><br>
+<form action="./">
+	<input type="hidden" name="page" value="1">
+	<input type="submit" value="Page 1" />
+</form>
+<form action="./">
+	<input type="hidden" name="page" value="2">
+	<input type="submit" value="Page 2" />
+</form>
+<form action="./">
+	<input type="hidden" name="page" value="3">
+	<input type="submit" value="Page 3" />
+</form><br><br>
+6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b</center>
+</html>
+
+
+curl -sL http://udctf.com:5004/?page=2 | html2text
+<!DOCTYPE html>
+<html>
+<center><h1>Can you guess my lucky number?</h1><br>
+<h4>I hid the flag on the page numbered as my lucky number :)</h4><br><br>
+<img src="./book.jpg"><br><br>
+<form action="./">
+	<input type="hidden" name="page" value="1">
+	<input type="submit" value="Page 1" />
+</form>
+<form action="./">
+	<input type="hidden" name="page" value="2">
+	<input type="submit" value="Page 2" />
+</form>
+<form action="./">
+	<input type="hidden" name="page" value="3">
+	<input type="submit" value="Page 3" />
+</form><br><br>
+d4735e3a265e16eee03f59718b9b5d03019c07d8b6c51f90da3a666eec13ab35</center>
+</html>
+
+
+curl -sL http://udctf.com:5004/?page=3 | html2text
+<!DOCTYPE html>
+<html>
+<center><h1>Can you guess my lucky number?</h1><br>
+<h4>I hid the flag on the page numbered as my lucky number :)</h4><br><br>
+<img src="./book.jpg"><br><br>
+<form action="./">
+	<input type="hidden" name="page" value="1">
+	<input type="submit" value="Page 1" />
+</form>
+<form action="./">
+	<input type="hidden" name="page" value="2">
+	<input type="submit" value="Page 2" />
+</form>
+<form action="./">
+	<input type="hidden" name="page" value="3">
+	<input type="submit" value="Page 3" />
+</form><br><br>
+4e07408562bedb8b60ce05c1decfe3ad16b72230967de01f640b7e4729b49fce</center>
+</html>
+
+trying 1000 pages...
+
+curl -s http://udctf.com:5004/\?page=\[1-1000\] | html2text -unparse | grep --color=auto -a -E 'UDCTF{.*?}'
+
+UDCTF{my_lucky_numb3r_1s_924_1_h0p3_s0lv1ng_th1s_ch4ll3ng3_w4snt_t00_much_0f_4_ch0r3}
+
+

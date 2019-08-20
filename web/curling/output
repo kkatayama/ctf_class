@@ -1,0 +1,24 @@
+
+examining site...
+
+HTTP/1.1 200 OK
+Date: Sat, 17 Aug 2019 08:52:26 GMT
+Server: Apache/2.4.25 (Debian)
+Last-Modified: Tue, 23 Jul 2019 14:14:45 GMT
+ETag: "7b-58e59d08520d8"
+Accept-Ranges: bytes
+Content-Length: 123
+Vary: Accept-Encoding
+Content-Type: text/html
+
+<!DOCTYPE html>
+<html>
+  <form action="./flag.php">
+    <input type="submit" value="Give me the flag" />
+  </form>
+</html>
+
+payload = ./flag.php
+
+UUDDCCTTFF{{11ss__ccuurrll11nngg__33vv33nn__44__rr3344ll__sspp00rrtt??}}
+UUDDCCTTFF{{11ss__ccuurrll11nngg__33vv33nn__44__rr3344ll__sspp00rrtt??}}

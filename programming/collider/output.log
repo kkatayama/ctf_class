@@ -1,0 +1,11 @@
+[x] Opening connection to 52.15.140.126 on port 6969
+[x] Opening connection to 52.15.140.126 on port 6969: Trying 52.15.140.126
+[+] Opening connection to 52.15.140.126 on port 6969: Done
+    
+[*] received: Find a string such that md5[:4] is 14b6
+[x] running dictionary attack...
+[+] running dictionary attack...: cracked: ballooned
+[*] sending: ballooned
+    
+[*] received:  > Find a string such that md5[:4] is 34f9
+[*] Closed connection to 52.15.140.126 port 6969

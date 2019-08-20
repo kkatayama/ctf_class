@@ -1,0 +1,3 @@
+cp secret.jpg secret.rar
+unrar e secret.rar < 1234
+cat flag.txt.txt

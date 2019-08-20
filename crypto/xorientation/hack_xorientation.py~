@@ -1,0 +1,29 @@
+# coding: utf-8
+from pwn import *
+from Crypto.Util.number import *
+from tqdm import tqdm
+import itertools
+import string
+
+with open('encrypted.txt') as f:
+    ct = f.read().strip()
+
+def xor2(msg, key):
+    o = ''
+    for i in range(len(msg)):
+        o += chr(ord(msg[i]) ^ ord(key[i % len(key)]))
+    return o
+
+for i in range(len(ct)-8):
+    k = ct[i:i+8]
+    test = xor2('UDCTF', k)
+    print test
+for i in range(len(ct)-8):
+    k = ct[i:i+8]
+    test = xor2('UDCTF{', k)
+    print test
+for i in range(len(ct)-8):
+    k = ct[i:i+8]
+    test = xor2('XORISF', k)
+    print test
+print xor2(ct, 'XORISFUN')

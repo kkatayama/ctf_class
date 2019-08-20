@@ -1,0 +1,27 @@
+# coding: utf-8
+from Crypto.Util.number import *
+from pwn import *
+import string
+
+flag = 'UDCTF{'
+chars = string.printable
+found = 0
+while (found != 1):
+    for char in chars:
+        # print char
+        r = remote('3.220.181.160', 6003)
+        msg = r.recv()
+        enc = msg.split(': ')[1].split('\n')[0]
+        # print enc
+        r.sendline(flag + char)
+        res = r.recv()
+        ct = res.split(': ')[1].split('\n')[0]
+        # print ct
+        if ct in enc:
+            flag += char
+            print flag
+            if '}' in flag:
+                found = 1
+            r.close()
+            break
+        r.close()

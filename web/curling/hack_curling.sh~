@@ -1,0 +1,5 @@
+curl -sL http://udctf.com:5003
+
+# curl -s http://udctf.com:5003/flag.php | html2text
+f=$(curl -s http://udctf.com:5003/flag.php | html2text)
+echo $f

@@ -1,0 +1,16 @@
+# aaaaa
+s main
+Vpp
+dc
+afvd
+.afvd local_4h
+afvd local_4h
+wb efbeadde00000000 @rbp-0x4
+afvd
+.afvd
+wa .afvd local_4h
+afvd
+wb efbeadde00000000 @rbp-0x4
+afvd
+dc
+
