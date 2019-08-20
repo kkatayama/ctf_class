@@ -63,7 +63,7 @@ with open('flag.txt', 'w') as f:
 ```
 
 ### Results
-```TSQL, MASK
+```TSQL, MASK, CoffeeScript, EmberScript
 ➜  all_the_single_ladies git:(master) ✗ python hack_single_ladies.py
 
 A took a byte out of Gottfreid's sandwich, while he wasn't looking. Thank
