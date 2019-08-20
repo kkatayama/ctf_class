@@ -4,7 +4,7 @@
 FILE: [output.txt](https://raw.githubusercontent.com/kkatayama/ctf_class/master/crypto/all_the_single_ladies/output.txt)
 
 ## Initial Analysis 
-For this challenge, we were given an encrypted binary file, `output.txt`.
+For this challenge, we were given an encrypted binary file, [output.txt](https://raw.githubusercontent.com/kkatayama/ctf_class/master/crypto/all_the_single_ladies/output.txt).
 
 Our goal is to decrypt the message contained in the file.
 > Provided Hint: XOR challenge with 2<sup>8</sup> search space.
