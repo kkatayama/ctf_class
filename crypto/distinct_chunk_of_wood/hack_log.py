@@ -1,0 +1,12 @@
+# coding: utf-8
+from sage.all import IntegerModRing, discrete_log, Integer
+import binascii
+
+p = Integer(122488473105892538559311426995019720049507640328167439356838797108079051563759027212419257414247)
+g = Integer(2)
+h = Integer(70388135743471424569479456639590418870801238093684057816981773116569876008168393577185261489015)
+
+R = IntegerModRing(p)
+x = discrete_log(R(h), R(g))
+
+print binascii.unhexlify(hex(x))
