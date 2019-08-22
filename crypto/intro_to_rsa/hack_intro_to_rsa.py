@@ -17,7 +17,7 @@ with open('rsa_values') as f:
     values = [l.strip() for l in f]
 
 for val in values:
-    print val
+    # print val
     exec(val)
 
 # we have d, ct, n
