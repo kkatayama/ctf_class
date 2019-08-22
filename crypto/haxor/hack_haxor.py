@@ -84,7 +84,6 @@ for key in tqdm(keys):
         break
 ''' 
 key = '\xf7t\xe7'
-# flags = [''.join(c) for c in itertools.product('0123456789abcdefghijklmnopqrstuvwxyz_!', repeat=9)]
 flag = 'UDCTF{'
 enc_flag = 'dac6cc1689dd6b3e516ae082d9430510'
 
