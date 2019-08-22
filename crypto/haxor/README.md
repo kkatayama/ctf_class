@@ -5,8 +5,7 @@ Here's a brand new cipher. I bet you can't break it. When you're smart enough, y
 FILE: [fun.py](https://raw.githubusercontent.com/kkatayama/ctf_class/master/crypto/haxor/fun.py)
 
 ## Initial Analysis 
-For this challenge, we were given a python script [fun.py](https://raw.githubusercontent.com/kkatayama/ctf_class/master/crypto/haxor/fun.py) that was used to
-encrypt a plaintext.  
+For this challenge, we were given a python script [fun.py](https://raw.githubusercontent.com/kkatayama/ctf_class/master/crypto/haxor/fun.py) that was used to encrypt a secret plaintext.
 
 #### fun.py
 ```python
@@ -66,7 +65,7 @@ print("Encrypted flag: %s" % cipher(key, flag))
 #Encrypted flag: dac6cc1689dd6b3e516ae082d9430510
 ```
 From the file, we see that the `KEY_LENGTH` is `3`, the `BLOCK_LENGTH`
-is `16`, and two encrypted messages, one of which we have the known plaintext `34e78a7b71641230f76bbdb6081a2a87 = b"permutations yo!"` .
+is `16`, and two encrypted messages, one of which we have the known plaintext `34e78a7b71641230f76bbdb6081a2a87 = b"permutations yo!"`.  Our task for this challenge is to decrypt the `Encrypted flag`.
 
 ### Having fun with the cipher
 To gain a better understanding of the encryption algorithm, I fed the cipher a simple key of `000` and the plaintext `'UDCTF{' + 'a'*9 + '}'`.  Then adjusted the key to `001` with the same plaintext to see what changed.
@@ -118,7 +117,7 @@ for key in tqdm(keys):
         break
 ```
 ##### key
-```mask
+```Mask
 
 97%|█████████▋| 16216527/16777216 [34:14<01:09, 8033.15it/s]
 FOUND KEY: '\xf7t\xe7'

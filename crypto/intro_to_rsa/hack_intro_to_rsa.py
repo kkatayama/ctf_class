@@ -1,6 +1,5 @@
 # coding: utf-8
 from Crypto.Util.number import *
-from pwn import *
 import gmpy2
 import re
 
