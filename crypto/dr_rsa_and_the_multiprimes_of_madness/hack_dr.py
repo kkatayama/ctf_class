@@ -6,8 +6,8 @@ ct = long(ct)
 d = long(d)
 N = long(N)
 pt = powmod(ct, d, N)
-with open('plaintext', 'w') as f:
-    f.write('pt='+str(pt))
+with open('flag.txt', 'w') as f:
+    f.write(long_to_bytes(pt))
 print long_to_bytes(pt)
 
 
