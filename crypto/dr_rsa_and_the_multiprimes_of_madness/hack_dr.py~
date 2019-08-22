@@ -1,0 +1,12 @@
+from sage.all import *
+from rsa_hacked import ct, d, N
+from binascii import unhexlify
+
+R = Integers(N)
+a = R(Integer(ct))
+pt = a^Integer(d)
+with open('plaintext', 'w') as f:
+    f.write('pt='+str(pt))
+print unhexlify(pt.hex())
+
+
