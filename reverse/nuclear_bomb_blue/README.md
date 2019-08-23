@@ -5,14 +5,14 @@ You must defuse Dr. Von Noizeman's nuclear bomb!
 
 Please see the Nuclear Bomb: Yellow challenge for the bomb executable.
 
-FILE: [bomb](https://github.com/kkatayama/ctf_class/blob/master/crypto/nuclear_bomb_blue/bomb?raw=true)
+FILE: [bomb](https://github.com/kkatayama/ctf_class/blob/master/reverse/nuclear_bomb_blue/bomb?raw=true)
 
 ## Initial Analysis 
-For this challenge, we were given a binary file [bomb](https://github.com/kkatayama/ctf_class/blob/master/crypto/nuclear_bomb_blue/bomb?raw=true).
+For this challenge, we were given a binary file [bomb](https://github.com/kkatayama/ctf_class/blob/master/reverse/nuclear_bomb_blue/bomb?raw=true).
 
 This time we need to enter a correct sequence that satisfies a `Circuit Traversal Path`
 
-![intro.png](https://raw.githubusercontent.com/kkatayama/ctf_class/master/crypto/nuclear_bomb_blue/intro.png)
+![intro.png](https://raw.githubusercontent.com/kkatayama/ctf_class/master/reverse/nuclear_bomb_blue/intro.png)
 
 ## Tools 
 * radare2 (bash)
