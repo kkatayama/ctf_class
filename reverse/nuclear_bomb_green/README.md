@@ -6,10 +6,10 @@ The flag for this challenge is the answer for the `green` wire, wrapped in the `
 
 Please see the Nuclear Bomb: Yellow challenge for the bomb executable.
 
-FILE: [bomb](https://github.com/kkatayama/ctf_class/blob/master/reverse/nuclear_bomb_yellow/bomb?raw=true)
+FILE: [bomb](https://github.com/kkatayama/ctf_class/blob/master/reverse/nuclear_bomb_green/bomb?raw=true)
 
 ## Initial Analysis 
-For this challenge, we were given a binary file [bomb](https://github.com/kkatayama/ctf_class/blob/master/reverse/nuclear_bomb_yellow/bomb?raw=true).
+For this challenge, we were given a binary file [bomb](https://github.com/kkatayama/ctf_class/blob/master/reverse/nuclear_bomb_green/bomb?raw=true).
 This time we have to enter the correct password to `Disengage` the green wire.
 
 ![intro](https://raw.githubusercontent.com/kkatayama/ctf_class/master/reverse/nuclear_bomb_green/intro.png)
@@ -37,9 +37,9 @@ This `AND` operation is computed with the last bit of the last input character `
 I padded the password with some `0`'s.
 
 ### RESULTS
-![hack](https://raw.githubusercontent.com/kkatayama/ctf_class/master/reverse/nuclear_bomb_yellow/hack1.png)
+![hack](https://raw.githubusercontent.com/kkatayama/ctf_class/master/reverse/nuclear_bomb_green/hack1.png)
 
-![hack](https://raw.githubusercontent.com/kkatayama/ctf_class/master/reverse/nuclear_bomb_yellow/hack.png)
+![hack](https://raw.githubusercontent.com/kkatayama/ctf_class/master/reverse/nuclear_bomb_green/hack.png)
 
 
 ## The Flag 
