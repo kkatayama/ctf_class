@@ -37,7 +37,9 @@ This `AND` operation is computed with the last bit of the last input character `
 I padded the password with some `0`'s.
 
 ### RESULTS
-![hack](https://raw.githubusercontent.com/kkatayama/ctf_class/master/reverse/nuclear_bomb_green/hack1.png)![hack](https://raw.githubusercontent.com/kkatayama/ctf_class/master/reverse/nuclear_bomb_green/hack.png)
+   Padded Password         |       Success :)
+:-------------------------:|:-------------------------:
+![hack_padded](https://raw.githubusercontent.com/kkatayama/ctf_class/master/reverse/nuclear_bomb_green/hack1.png)  |  ![hack_execute](https://raw.githubusercontent.com/kkatayama/ctf_class/master/reverse/nuclear_bomb_green/hack.png)
 
 
 ## The Flag 
