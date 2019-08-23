@@ -1,0 +1,34 @@
+digraph code {
+	graph [bgcolor=azure fontsize=8 fontname="Courier" splines="ortho"];
+	node [fillcolor=gray style=filled shape=box];
+	edge [arrowhead="normal"];
+	"0x08049719" -> "0x0804977c" [color="#bae67e"];
+	"0x08049719" -> "0x0804972f" [color="#f07178"];
+	"0x08049719" [URL="sym.yellow/0x08049719", fillcolor="#20e0b0",color="#20e0b0", fontname="Courier",label="(fcn) sym.yellow 138\l  sym.yellow ();\l0x08049719      push ebp\l0x0804971a      mov  ebp, esp\l0x0804971c      sub  esp, 8\l0x0804971f      call sym.yellow_preflight\l0x08049724      movzx eax, byte [obj.buffer] ; 0x804c24c\l0x0804972b      cmp  al, 0x38      ; '8' ; 56\l0x0804972d      jne  0x804977c\l"]
+	"0x0804972f" -> "0x0804977c" [color="#bae67e"];
+	"0x0804972f" -> "0x0804973a" [color="#f07178"];
+	"0x0804972f" [URL="sym.yellow/0x0804972f", fillcolor="#20e0b0",color="#20e0b0", fontname="Courier",label="0x0804972f      movzx eax, byte [0x804c24d]\l0x08049736      cmp  al, 0x34      ; '4' ; 52\l0x08049738      jne  0x804977c\l"]
+	"0x0804973a" -> "0x0804977c" [color="#bae67e"];
+	"0x0804973a" -> "0x08049745" [color="#f07178"];
+	"0x0804973a" [URL="sym.yellow/0x0804973a", fillcolor="#20e0b0",color="#20e0b0", fontname="Courier",label="0x0804973a      movzx eax, byte [0x804c24e]\l0x08049741      cmp  al, 0x33      ; '3' ; 51\l0x08049743      jne  0x804977c\l"]
+	"0x08049745" -> "0x0804977c" [color="#bae67e"];
+	"0x08049745" -> "0x08049750" [color="#f07178"];
+	"0x08049745" [URL="sym.yellow/0x08049745", fillcolor="#20e0b0",color="#20e0b0", fontname="Courier",label="0x08049745      movzx eax, byte [0x804c24f]\l0x0804974c      cmp  al, 0x37      ; '7' ; 55\l0x0804974e      jne  0x804977c\l"]
+	"0x08049750" -> "0x0804977c" [color="#bae67e"];
+	"0x08049750" -> "0x0804975b" [color="#f07178"];
+	"0x08049750" [URL="sym.yellow/0x08049750", fillcolor="#20e0b0",color="#20e0b0", fontname="Courier",label="0x08049750      movzx eax, byte [0x804c250]\l0x08049757      cmp  al, 0x31      ; '1' ; 49\l0x08049759      jne  0x804977c\l"]
+	"0x0804975b" -> "0x0804977c" [color="#bae67e"];
+	"0x0804975b" -> "0x08049766" [color="#f07178"];
+	"0x0804975b" [URL="sym.yellow/0x0804975b", fillcolor="#20e0b0",color="#20e0b0", fontname="Courier",label="0x0804975b      movzx eax, byte [0x804c251]\l0x08049762      cmp  al, 0x30      ; '0' ; 48\l0x08049764      jne  0x804977c\l"]
+	"0x08049766" -> "0x0804977c" [color="#bae67e"];
+	"0x08049766" -> "0x08049771" [color="#f07178"];
+	"0x08049766" [URL="sym.yellow/0x08049766", fillcolor="#20e0b0",color="#20e0b0", fontname="Courier",label="0x08049766      movzx eax, byte [0x804c252]\l0x0804976d      cmp  al, 0x36      ; '6' ; 54\l0x0804976f      jne  0x804977c\l"]
+	"0x08049771" -> "0x0804978b" [color="#bae67e"];
+	"0x08049771" -> "0x0804977c" [color="#f07178"];
+	"0x08049771" [URL="sym.yellow/0x08049771", fillcolor="#20e0b0",color="#20e0b0", fontname="Courier",label="0x08049771      movzx eax, byte [0x804c253]\l0x08049778      cmp  al, 0x35      ; '5' ; 53\l0x0804977a      je   0x804978b\l"]
+	"0x0804977c" -> "0x080497a1" [color="#55b4d4"];
+	"0x0804977c" [URL="sym.yellow/0x0804977c", fillcolor="#20e0b0",color="#20e0b0", fontname="Courier",label="0x0804977c      mov  eax, dword obj.wire_yellow ; 0x804c124\l0x08049781      shl  eax, 0xa\l0x08049784      mov  dword obj.wire_yellow, eax ; 0x804c124\l0x08049789      jmp  0x80497a1\l"]
+	"0x0804978b" -> "0x080497a1" [color="#55b4d4"];
+	"0x0804978b" [URL="sym.yellow/0x0804978b", fillcolor="#20e0b0",color="#20e0b0", fontname="Courier",label="0x0804978b      mov  dword [esp], str.e_43m__e_0m_e_33m_UNLOCK_PASSWORD_1_ACCEPTED__LOCK_DISENGAGED_e_0m ; 0x804a1f4 ; const char *s\l0x08049792      call sym.imp.puts  ; int puts(const char *s)\l0x08049797      mov  dword obj.wire_yellow, 0 ; 0x804c124\l"]
+	"0x080497a1" [URL="sym.yellow/0x080497a1", fillcolor="#20e0b0",color="#20e0b0", fontname="Courier",label="0x080497a1      leave\l0x080497a2      ret\l"]
+}
