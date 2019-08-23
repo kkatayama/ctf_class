@@ -36,9 +36,13 @@ Looking closer at the steps following the password check I noticed that there is
 This `AND` operation is computed with the last bit of the last input character `e` which in binary `01100101` ends with a `1`.  Seeing that the password only checks the characters up to `n` 
 I padded the password with some `0`'s.
 
+### RESULTS
+![hack](https://raw.githubusercontent.com/kkatayama/ctf_class/master/reverse/nuclear_bomb_yellow/hack1.png)
+
+![hack](https://raw.githubusercontent.com/kkatayama/ctf_class/master/reverse/nuclear_bomb_yellow/hack.png)
 
 
 ## The Flag 
 ```ObjectScript
-UDCTF{youwillneverguessthis}
+UDCTF{dcaotdae000}
 ```
