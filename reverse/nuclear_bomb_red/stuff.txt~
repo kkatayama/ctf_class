@@ -1,0 +1,23 @@
+doo
+s main
+db main
+s sym.red
+db 0x08049864
+dc
+dsu 0x0804950a
+dss 1
+dss 1
+db 0x0804956b
+db 0x08049837
+dc
+
+
+dcu 0x08049558
+dr dl=0x4b
+
+
+0x08049558		# fgets
+0x0804956b		# Menu Selection
+
+
+0x08049837		# Clock Sequencd

@@ -1,4 +1,4 @@
-# Nuclear_Bomb_Yellow
+# Nuclear_Bomb_Blue
 
 You must defuse Dr. Von Noizeman's nuclear bomb!
 <p>The flag for this challenge is the answer for the <font color="blue"><b>blue</b></font> wire, wrapped in the <b>UDCTF{}</b> flag format.</p>

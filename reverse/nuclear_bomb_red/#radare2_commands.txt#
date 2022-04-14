@@ -1,0 +1,14 @@
+r2 -Ad bomb
+s main
+db main
+s sym.red
+db 0x08049864
+dc
+dsu 0x0804950a
+dss 1
+s
+s
+dss 14
+
+dc
+dr dl=0x4b
