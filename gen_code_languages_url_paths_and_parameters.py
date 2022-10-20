@@ -15,7 +15,7 @@ codes = {
     "statements": """login with: 'param_name=param_value'
 edit entries: "param_name=param_value"
 returns: {"message": "missing parameters"}
-""".replace('"', "'"),
+"""#.replace('"', "'"),
 }
 
 with open('languages.yml') as f:
