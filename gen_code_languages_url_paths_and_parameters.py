@@ -13,7 +13,8 @@ codes = {
 /edit/{table_name}?param_name=param_value
 """,
     "statements": """login with: 'param_name=param_value'
-edit entries: 'param_name=param_value'
+edit entries: "param_name=param_value"
+returns: {"message": "missing parameters"}
 """,
 }
 
