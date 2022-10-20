@@ -1,5 +1,5 @@
 
-## CoffeeScript + 
+## CoffeeScript
 ```CoffeeScript
 /login/param_name/param_value
 /login/param_name=param_value
@@ -13,7 +13,7 @@ login with: 'param_name=param_value'
 edit entries: 'param_name=param_value'
 
 ```
-## EmberScript + 
+## EmberScript
 ```EmberScript
 /login/param_name/param_value
 /login/param_name=param_value
@@ -27,7 +27,7 @@ login with: 'param_name=param_value'
 edit entries: 'param_name=param_value'
 
 ```
-## Erlang + 
+## Erlang
 ```Erlang
 /login/param_name/param_value
 /login/param_name=param_value
@@ -41,7 +41,7 @@ login with: 'param_name=param_value'
 edit entries: 'param_name=param_value'
 
 ```
-## GDScript + 
+## GDScript
 ```GDScript
 /login/param_name/param_value
 /login/param_name=param_value
@@ -55,7 +55,7 @@ login with: 'param_name=param_value'
 edit entries: 'param_name=param_value'
 
 ```
-## GraphQL + 
+## GraphQL
 ```GraphQL
 /login/param_name/param_value
 /login/param_name=param_value
@@ -69,7 +69,7 @@ login with: 'param_name=param_value'
 edit entries: 'param_name=param_value'
 
 ```
-## J + 
+## J
 ```J
 /login/param_name/param_value
 /login/param_name=param_value
@@ -83,7 +83,7 @@ login with: 'param_name=param_value'
 edit entries: 'param_name=param_value'
 
 ```
-## LiveScript + 
+## LiveScript
 ```LiveScript
 /login/param_name/param_value
 /login/param_name=param_value
@@ -97,7 +97,7 @@ login with: 'param_name=param_value'
 edit entries: 'param_name=param_value'
 
 ```
-## Mask + 
+## Mask
 ```Mask
 /login/param_name/param_value
 /login/param_name=param_value
@@ -111,7 +111,7 @@ login with: 'param_name=param_value'
 edit entries: 'param_name=param_value'
 
 ```
-## Nearley + 
+## Nearley
 ```Nearley
 /login/param_name/param_value
 /login/param_name=param_value
@@ -125,7 +125,7 @@ login with: 'param_name=param_value'
 edit entries: 'param_name=param_value'
 
 ```
-## ObjectScript + 
+## ObjectScript
 ```ObjectScript
 /login/param_name/param_value
 /login/param_name=param_value
@@ -139,7 +139,7 @@ login with: 'param_name=param_value'
 edit entries: 'param_name=param_value'
 
 ```
-## P4 + 
+## P4
 ```P4
 /login/param_name/param_value
 /login/param_name=param_value
@@ -153,7 +153,7 @@ login with: 'param_name=param_value'
 edit entries: 'param_name=param_value'
 
 ```
-## Perl + 
+## Perl
 ```Perl
 /login/param_name/param_value
 /login/param_name=param_value
@@ -167,7 +167,7 @@ login with: 'param_name=param_value'
 edit entries: 'param_name=param_value'
 
 ```
-## REXX + 
+## REXX
 ```REXX
 /login/param_name/param_value
 /login/param_name=param_value
@@ -181,7 +181,7 @@ login with: 'param_name=param_value'
 edit entries: 'param_name=param_value'
 
 ```
-## RobotFramework + 
+## RobotFramework
 ```RobotFramework
 /login/param_name/param_value
 /login/param_name=param_value
@@ -195,7 +195,7 @@ login with: 'param_name=param_value'
 edit entries: 'param_name=param_value'
 
 ```
-## Shen + 
+## Shen
 ```Shen
 /login/param_name/param_value
 /login/param_name=param_value
@@ -209,7 +209,7 @@ login with: 'param_name=param_value'
 edit entries: 'param_name=param_value'
 
 ```
-## TSQL + 
+## TSQL
 ```TSQL
 /login/param_name/param_value
 /login/param_name=param_value
