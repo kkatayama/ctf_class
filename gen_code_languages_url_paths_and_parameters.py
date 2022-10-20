@@ -21,4 +21,8 @@ with open('languages.yml') as f:
 with open('README6.md', 'w') as f:
     for k in languages.keys():
         if k in ['CoffeeScript', 'EmberScript', 'TSQL', 'GraphQL', 'ObjectScript', 'Erlang', 'Nearley', 'Shen', 'LiveScript', 'Mask', 'GDScript', 'Perl', 'P4', 'REXX', 'J', 'RobotFramework']:
-            f.write(f'\n## {k} + \n```{k}\n{code}\n```')
+            f.write(f'\n## {k}\n```{k}\n{code}\n```')
+
+with open('README7.md', 'w') as f:
+    for k in languages.keys():
+        f.write(f'\n## {k}\n```{k}\n{code}\n```')
