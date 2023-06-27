@@ -1,6 +1,8 @@
 # Personal Growth Report
 CPEG 667 - udctf course
 
+https://github.com/zelinsky/CTF-Course/tree/master
+
 ## Motivation
 Having participated in number of online and locally hosted CTF competitions, my reference list of tools and personal repository of custom scripts have grown quite large.
 I often find myself entering a new ctf competing as if starting from scratch, limiting myself to using tools I am most familiar with and writing, or rather re-writing scripts
